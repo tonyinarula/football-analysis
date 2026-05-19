@@ -1,0 +1,1482 @@
+"season","league","team","points","prev_season_points","points_change"
+"2010/2011",Germany 1. Bundesliga,"1. FC Kaiserslautern",46,,
+"2011/2012",Germany 1. Bundesliga,"1. FC Kaiserslautern",23,46,-23
+"2008/2009",Germany 1. Bundesliga,"1. FC Köln",39,,
+"2009/2010",Germany 1. Bundesliga,"1. FC Köln",38,39,-1
+"2010/2011",Germany 1. Bundesliga,"1. FC Köln",44,38,6
+"2011/2012",Germany 1. Bundesliga,"1. FC Köln",30,44,-14
+"2014/2015",Germany 1. Bundesliga,"1. FC Köln",40,30,10
+"2015/2016",Germany 1. Bundesliga,"1. FC Köln",43,40,3
+"2009/2010",Germany 1. Bundesliga,"1. FC Nürnberg",31,,
+"2010/2011",Germany 1. Bundesliga,"1. FC Nürnberg",47,31,16
+"2011/2012",Germany 1. Bundesliga,"1. FC Nürnberg",42,47,-5
+"2012/2013",Germany 1. Bundesliga,"1. FC Nürnberg",44,42,2
+"2013/2014",Germany 1. Bundesliga,"1. FC Nürnberg",26,44,-18
+"2009/2010",Germany 1. Bundesliga,"1. FSV Mainz 05",47,,
+"2010/2011",Germany 1. Bundesliga,"1. FSV Mainz 05",58,47,11
+"2011/2012",Germany 1. Bundesliga,"1. FSV Mainz 05",39,58,-19
+"2012/2013",Germany 1. Bundesliga,"1. FSV Mainz 05",42,39,3
+"2013/2014",Germany 1. Bundesliga,"1. FSV Mainz 05",53,42,11
+"2014/2015",Germany 1. Bundesliga,"1. FSV Mainz 05",40,53,-13
+"2015/2016",Germany 1. Bundesliga,"1. FSV Mainz 05",50,40,10
+"2011/2012",France Ligue 1,AC Ajaccio,41,,
+"2012/2013",France Ligue 1,AC Ajaccio,42,41,1
+"2013/2014",France Ligue 1,AC Ajaccio,23,42,-19
+"2010/2011",France Ligue 1,AC Arles-Avignon,20,,
+"2008/2009",Switzerland Super League,AC Bellinzona,43,,
+"2009/2010",Switzerland Super League,AC Bellinzona,25,43,-18
+"2010/2011",Switzerland Super League,AC Bellinzona,32,25,7
+"2008/2009",Netherlands Eredivisie,ADO Den Haag,32,,
+"2009/2010",Netherlands Eredivisie,ADO Den Haag,30,32,-2
+"2010/2011",Netherlands Eredivisie,ADO Den Haag,54,30,24
+"2011/2012",Netherlands Eredivisie,ADO Den Haag,32,54,-22
+"2012/2013",Netherlands Eredivisie,ADO Den Haag,40,32,8
+"2013/2014",Netherlands Eredivisie,ADO Den Haag,43,40,3
+"2014/2015",Netherlands Eredivisie,ADO Den Haag,37,43,-6
+"2015/2016",Netherlands Eredivisie,ADO Den Haag,43,37,6
+"2008/2009",France Ligue 1,AJ Auxerre,55,,
+"2009/2010",France Ligue 1,AJ Auxerre,71,55,16
+"2010/2011",France Ligue 1,AJ Auxerre,49,71,-22
+"2011/2012",France Ligue 1,AJ Auxerre,34,49,-15
+"2008/2009",France Ligue 1,AS Monaco,45,,
+"2009/2010",France Ligue 1,AS Monaco,55,45,10
+"2010/2011",France Ligue 1,AS Monaco,44,55,-11
+"2013/2014",France Ligue 1,AS Monaco,80,44,36
+"2014/2015",France Ligue 1,AS Monaco,71,80,-9
+"2015/2016",France Ligue 1,AS Monaco,65,71,-6
+"2008/2009",France Ligue 1,AS Nancy-Lorraine,42,,
+"2009/2010",France Ligue 1,AS Nancy-Lorraine,48,42,6
+"2010/2011",France Ligue 1,AS Nancy-Lorraine,48,48,0
+"2011/2012",France Ligue 1,AS Nancy-Lorraine,45,48,-3
+"2012/2013",France Ligue 1,AS Nancy-Lorraine,38,45,-7
+"2008/2009",France Ligue 1,AS Saint-Étienne,40,,
+"2009/2010",France Ligue 1,AS Saint-Étienne,40,40,0
+"2010/2011",France Ligue 1,AS Saint-Étienne,49,40,9
+"2011/2012",France Ligue 1,AS Saint-Étienne,57,49,8
+"2012/2013",France Ligue 1,AS Saint-Étienne,63,57,6
+"2013/2014",France Ligue 1,AS Saint-Étienne,69,63,6
+"2014/2015",France Ligue 1,AS Saint-Étienne,69,69,0
+"2015/2016",France Ligue 1,AS Saint-Étienne,58,69,-11
+"2008/2009",Netherlands Eredivisie,AZ,80,,
+"2009/2010",Netherlands Eredivisie,AZ,62,80,-18
+"2010/2011",Netherlands Eredivisie,AZ,59,62,-3
+"2011/2012",Netherlands Eredivisie,AZ,65,59,6
+"2012/2013",Netherlands Eredivisie,AZ,39,65,-26
+"2013/2014",Netherlands Eredivisie,AZ,47,39,8
+"2014/2015",Netherlands Eredivisie,AZ,62,47,15
+"2015/2016",Netherlands Eredivisie,AZ,59,62,-3
+"2008/2009",Scotland Premier League,Aberdeen,53,,
+"2009/2010",Scotland Premier League,Aberdeen,41,53,-12
+"2010/2011",Scotland Premier League,Aberdeen,38,41,-3
+"2011/2012",Scotland Premier League,Aberdeen,41,38,3
+"2012/2013",Scotland Premier League,Aberdeen,48,41,7
+"2013/2014",Scotland Premier League,Aberdeen,68,48,20
+"2014/2015",Scotland Premier League,Aberdeen,75,68,7
+"2015/2016",Scotland Premier League,Aberdeen,71,75,-4
+"2008/2009",Portugal Liga ZON Sagres,Académica de Coimbra,39,,
+"2009/2010",Portugal Liga ZON Sagres,Académica de Coimbra,33,39,-6
+"2010/2011",Portugal Liga ZON Sagres,Académica de Coimbra,30,33,-3
+"2011/2012",Portugal Liga ZON Sagres,Académica de Coimbra,29,30,-1
+"2012/2013",Portugal Liga ZON Sagres,Académica de Coimbra,28,29,-1
+"2013/2014",Portugal Liga ZON Sagres,Académica de Coimbra,37,28,9
+"2014/2015",Portugal Liga ZON Sagres,Académica de Coimbra,29,37,-8
+"2015/2016",Portugal Liga ZON Sagres,Académica de Coimbra,25,29,-4
+"2008/2009",Netherlands Eredivisie,Ajax,68,,
+"2009/2010",Netherlands Eredivisie,Ajax,85,68,17
+"2010/2011",Netherlands Eredivisie,Ajax,73,85,-12
+"2011/2012",Netherlands Eredivisie,Ajax,76,73,3
+"2012/2013",Netherlands Eredivisie,Ajax,76,76,0
+"2013/2014",Netherlands Eredivisie,Ajax,71,76,-5
+"2014/2015",Netherlands Eredivisie,Ajax,71,71,0
+"2015/2016",Netherlands Eredivisie,Ajax,82,71,11
+"2008/2009",Portugal Liga ZON Sagres,Amadora,34,,
+"2015/2016",France Ligue 1,Angers SCO,50,,
+"2008/2009",Poland Ekstraklasa,Arka Gdynia,30,,
+"2009/2010",Poland Ekstraklasa,Arka Gdynia,28,30,-2
+"2010/2011",Poland Ekstraklasa,Arka Gdynia,28,28,0
+"2008/2009",England Premier League,Arsenal,72,,
+"2009/2010",England Premier League,Arsenal,75,72,3
+"2010/2011",England Premier League,Arsenal,68,75,-7
+"2011/2012",England Premier League,Arsenal,70,68,2
+"2012/2013",England Premier League,Arsenal,73,70,3
+"2013/2014",England Premier League,Arsenal,79,73,6
+"2014/2015",England Premier League,Arsenal,75,79,-4
+"2015/2016",England Premier League,Arsenal,71,75,-4
+"2008/2009",England Premier League,Aston Villa,62,,
+"2009/2010",England Premier League,Aston Villa,64,62,2
+"2010/2011",England Premier League,Aston Villa,48,64,-16
+"2011/2012",England Premier League,Aston Villa,38,48,-10
+"2012/2013",England Premier League,Aston Villa,41,38,3
+"2013/2014",England Premier League,Aston Villa,38,41,-3
+"2014/2015",England Premier League,Aston Villa,38,38,0
+"2015/2016",England Premier League,Aston Villa,17,38,-21
+"2008/2009",Italy Serie A,Atalanta,47,,
+"2009/2010",Italy Serie A,Atalanta,35,47,-12
+"2011/2012",Italy Serie A,Atalanta,50,35,15
+"2012/2013",Italy Serie A,Atalanta,42,50,-8
+"2013/2014",Italy Serie A,Atalanta,50,42,8
+"2014/2015",Italy Serie A,Atalanta,37,50,-13
+"2015/2016",Italy Serie A,Atalanta,45,37,8
+"2008/2009",Spain LIGA BBVA,Athletic Club de Bilbao,44,,
+"2009/2010",Spain LIGA BBVA,Athletic Club de Bilbao,54,44,10
+"2010/2011",Spain LIGA BBVA,Athletic Club de Bilbao,58,54,4
+"2011/2012",Spain LIGA BBVA,Athletic Club de Bilbao,49,58,-9
+"2012/2013",Spain LIGA BBVA,Athletic Club de Bilbao,45,49,-4
+"2013/2014",Spain LIGA BBVA,Athletic Club de Bilbao,70,45,25
+"2014/2015",Spain LIGA BBVA,Athletic Club de Bilbao,55,70,-15
+"2015/2016",Spain LIGA BBVA,Athletic Club de Bilbao,62,55,7
+"2008/2009",Spain LIGA BBVA,Atlético Madrid,67,,
+"2009/2010",Spain LIGA BBVA,Atlético Madrid,47,67,-20
+"2010/2011",Spain LIGA BBVA,Atlético Madrid,58,47,11
+"2011/2012",Spain LIGA BBVA,Atlético Madrid,56,58,-2
+"2012/2013",Spain LIGA BBVA,Atlético Madrid,76,56,20
+"2013/2014",Spain LIGA BBVA,Atlético Madrid,90,76,14
+"2014/2015",Spain LIGA BBVA,Atlético Madrid,78,90,-12
+"2015/2016",Spain LIGA BBVA,Atlético Madrid,88,78,10
+"2008/2009",Switzerland Super League,BSC Young Boys,73,,
+"2009/2010",Switzerland Super League,BSC Young Boys,77,73,4
+"2010/2011",Switzerland Super League,BSC Young Boys,57,77,-20
+"2011/2012",Switzerland Super League,BSC Young Boys,51,57,-6
+"2012/2013",Switzerland Super League,BSC Young Boys,43,51,-8
+"2013/2014",Switzerland Super League,BSC Young Boys,59,43,16
+"2014/2015",Switzerland Super League,BSC Young Boys,66,59,7
+"2015/2016",Switzerland Super League,BSC Young Boys,69,66,3
+"2009/2010",Italy Serie A,Bari,50,,
+"2010/2011",Italy Serie A,Bari,24,50,-26
+"2008/2009",Germany 1. Bundesliga,Bayer 04 Leverkusen,49,,
+"2009/2010",Germany 1. Bundesliga,Bayer 04 Leverkusen,59,49,10
+"2010/2011",Germany 1. Bundesliga,Bayer 04 Leverkusen,68,59,9
+"2011/2012",Germany 1. Bundesliga,Bayer 04 Leverkusen,54,68,-14
+"2012/2013",Germany 1. Bundesliga,Bayer 04 Leverkusen,65,54,11
+"2013/2014",Germany 1. Bundesliga,Bayer 04 Leverkusen,61,65,-4
+"2014/2015",Germany 1. Bundesliga,Bayer 04 Leverkusen,61,61,0
+"2015/2016",Germany 1. Bundesliga,Bayer 04 Leverkusen,60,61,-1
+"2008/2009",Belgium Jupiler League,Beerschot AC,42,,
+"2009/2010",Belgium Jupiler League,Beerschot AC,35,42,-7
+"2010/2011",Belgium Jupiler League,Beerschot AC,26,35,-9
+"2011/2012",Belgium Jupiler League,Beerschot AC,36,26,10
+"2012/2013",Belgium Jupiler League,Beerschot AC,23,36,-13
+"2009/2010",England Premier League,Birmingham City,50,,
+"2010/2011",England Premier League,Birmingham City,39,50,-11
+"2008/2009",England Premier League,Blackburn Rovers,41,,
+"2009/2010",England Premier League,Blackburn Rovers,50,41,9
+"2010/2011",England Premier League,Blackburn Rovers,43,50,-7
+"2011/2012",England Premier League,Blackburn Rovers,31,43,-12
+"2010/2011",England Premier League,Blackpool,39,,
+"2014/2015",Portugal Liga ZON Sagres,Boavista FC,34,,
+"2015/2016",Portugal Liga ZON Sagres,Boavista FC,33,34,-1
+"2008/2009",Italy Serie A,Bologna,37,,
+"2009/2010",Italy Serie A,Bologna,42,37,5
+"2010/2011",Italy Serie A,Bologna,45,42,3
+"2011/2012",Italy Serie A,Bologna,44,45,-1
+"2012/2013",Italy Serie A,Bologna,44,44,0
+"2013/2014",Italy Serie A,Bologna,29,44,-15
+"2015/2016",Italy Serie A,Bologna,42,29,13
+"2008/2009",England Premier League,Bolton Wanderers,41,,
+"2009/2010",England Premier League,Bolton Wanderers,39,41,-2
+"2010/2011",England Premier League,Bolton Wanderers,46,39,7
+"2011/2012",England Premier League,Bolton Wanderers,36,46,-10
+"2008/2009",Germany 1. Bundesliga,Borussia Dortmund,59,,
+"2009/2010",Germany 1. Bundesliga,Borussia Dortmund,57,59,-2
+"2010/2011",Germany 1. Bundesliga,Borussia Dortmund,75,57,18
+"2011/2012",Germany 1. Bundesliga,Borussia Dortmund,81,75,6
+"2012/2013",Germany 1. Bundesliga,Borussia Dortmund,66,81,-15
+"2013/2014",Germany 1. Bundesliga,Borussia Dortmund,71,66,5
+"2014/2015",Germany 1. Bundesliga,Borussia Dortmund,46,71,-25
+"2015/2016",Germany 1. Bundesliga,Borussia Dortmund,78,46,32
+"2008/2009",Germany 1. Bundesliga,Borussia Mönchengladbach,31,,
+"2009/2010",Germany 1. Bundesliga,Borussia Mönchengladbach,39,31,8
+"2010/2011",Germany 1. Bundesliga,Borussia Mönchengladbach,36,39,-3
+"2011/2012",Germany 1. Bundesliga,Borussia Mönchengladbach,60,36,24
+"2012/2013",Germany 1. Bundesliga,Borussia Mönchengladbach,47,60,-13
+"2013/2014",Germany 1. Bundesliga,Borussia Mönchengladbach,55,47,8
+"2014/2015",Germany 1. Bundesliga,Borussia Mönchengladbach,66,55,11
+"2015/2016",Germany 1. Bundesliga,Borussia Mönchengladbach,55,66,-11
+"2015/2016",England Premier League,Bournemouth,42,,
+"2010/2011",Italy Serie A,Brescia,32,,
+"2009/2010",England Premier League,Burnley,30,,
+"2014/2015",England Premier League,Burnley,33,30,3
+"2008/2009",Spain LIGA BBVA,CA Osasuna,43,,
+"2009/2010",Spain LIGA BBVA,CA Osasuna,43,43,0
+"2010/2011",Spain LIGA BBVA,CA Osasuna,47,43,4
+"2011/2012",Spain LIGA BBVA,CA Osasuna,54,47,7
+"2012/2013",Spain LIGA BBVA,CA Osasuna,39,54,-15
+"2013/2014",Spain LIGA BBVA,CA Osasuna,39,39,0
+"2008/2009",Portugal Liga ZON Sagres,CD Nacional,52,,
+"2009/2010",Portugal Liga ZON Sagres,CD Nacional,39,52,-13
+"2010/2011",Portugal Liga ZON Sagres,CD Nacional,42,39,3
+"2011/2012",Portugal Liga ZON Sagres,CD Nacional,44,42,2
+"2012/2013",Portugal Liga ZON Sagres,CD Nacional,40,44,-4
+"2013/2014",Portugal Liga ZON Sagres,CD Nacional,45,40,5
+"2014/2015",Portugal Liga ZON Sagres,CD Nacional,47,45,2
+"2015/2016",Portugal Liga ZON Sagres,CD Nacional,38,47,-9
+"2008/2009",Spain LIGA BBVA,CD Numancia,35,,
+"2009/2010",Spain LIGA BBVA,CD Tenerife,36,,
+"2008/2009",Portugal Liga ZON Sagres,CF Os Belenenses,24,,
+"2009/2010",Portugal Liga ZON Sagres,CF Os Belenenses,23,24,-1
+"2013/2014",Portugal Liga ZON Sagres,CF Os Belenenses,28,23,5
+"2014/2015",Portugal Liga ZON Sagres,CF Os Belenenses,48,28,20
+"2015/2016",Portugal Liga ZON Sagres,CF Os Belenenses,41,48,-7
+"2008/2009",Portugal Liga ZON Sagres,CS Marítimo,37,,
+"2009/2010",Portugal Liga ZON Sagres,CS Marítimo,41,37,4
+"2010/2011",Portugal Liga ZON Sagres,CS Marítimo,35,41,-6
+"2011/2012",Portugal Liga ZON Sagres,CS Marítimo,50,35,15
+"2012/2013",Portugal Liga ZON Sagres,CS Marítimo,38,50,-12
+"2013/2014",Portugal Liga ZON Sagres,CS Marítimo,41,38,3
+"2014/2015",Portugal Liga ZON Sagres,CS Marítimo,44,41,3
+"2015/2016",Portugal Liga ZON Sagres,CS Marítimo,35,44,-9
+"2008/2009",Italy Serie A,Cagliari,53,,
+"2009/2010",Italy Serie A,Cagliari,44,53,-9
+"2010/2011",Italy Serie A,Cagliari,45,44,1
+"2011/2012",Italy Serie A,Cagliari,40,45,-5
+"2012/2013",Italy Serie A,Cagliari,47,40,7
+"2013/2014",Italy Serie A,Cagliari,39,47,-8
+"2014/2015",Italy Serie A,Cagliari,34,39,-5
+"2013/2014",England Premier League,Cardiff City,30,,
+"2015/2016",Italy Serie A,Carpi,38,,
+"2008/2009",Italy Serie A,Catania,43,,
+"2009/2010",Italy Serie A,Catania,45,43,2
+"2010/2011",Italy Serie A,Catania,46,45,1
+"2011/2012",Italy Serie A,Catania,42,46,-4
+"2012/2013",Italy Serie A,Catania,56,42,14
+"2013/2014",Italy Serie A,Catania,32,56,-24
+"2008/2009",Scotland Premier League,Celtic,82,,
+"2009/2010",Scotland Premier League,Celtic,81,82,-1
+"2010/2011",Scotland Premier League,Celtic,92,81,11
+"2011/2012",Scotland Premier League,Celtic,93,92,1
+"2012/2013",Scotland Premier League,Celtic,79,93,-14
+"2013/2014",Scotland Premier League,Celtic,99,79,20
+"2014/2015",Scotland Premier League,Celtic,92,99,-7
+"2015/2016",Scotland Premier League,Celtic,86,92,-6
+"2010/2011",Italy Serie A,Cesena,43,,
+"2011/2012",Italy Serie A,Cesena,20,43,-23
+"2014/2015",Italy Serie A,Cesena,24,20,4
+"2008/2009",England Premier League,Chelsea,83,,
+"2009/2010",England Premier League,Chelsea,86,83,3
+"2010/2011",England Premier League,Chelsea,71,86,-15
+"2011/2012",England Premier League,Chelsea,64,71,-7
+"2012/2013",England Premier League,Chelsea,75,64,11
+"2013/2014",England Premier League,Chelsea,82,75,7
+"2014/2015",England Premier League,Chelsea,87,82,5
+"2015/2016",England Premier League,Chelsea,50,87,-37
+"2008/2009",Italy Serie A,Chievo Verona,38,,
+"2009/2010",Italy Serie A,Chievo Verona,44,38,6
+"2010/2011",Italy Serie A,Chievo Verona,46,44,2
+"2011/2012",Italy Serie A,Chievo Verona,46,46,0
+"2012/2013",Italy Serie A,Chievo Verona,45,46,-1
+"2013/2014",Italy Serie A,Chievo Verona,36,45,-9
+"2014/2015",Italy Serie A,Chievo Verona,43,36,7
+"2015/2016",Italy Serie A,Chievo Verona,50,43,7
+"2008/2009",Belgium Jupiler League,Club Brugge KV,59,,
+"2009/2010",Belgium Jupiler League,Club Brugge KV,57,59,-2
+"2010/2011",Belgium Jupiler League,Club Brugge KV,53,57,-4
+"2011/2012",Belgium Jupiler League,Club Brugge KV,61,53,8
+"2012/2013",Belgium Jupiler League,Club Brugge KV,54,61,-7
+"2014/2015",Belgium Jupiler League,Club Brugge KV,61,54,7
+"2015/2016",Belgium Jupiler League,Club Brugge KV,64,61,3
+"2008/2009",Poland Ekstraklasa,Cracovia,30,,
+"2009/2010",Poland Ekstraklasa,Cracovia,34,30,4
+"2010/2011",Poland Ekstraklasa,Cracovia,29,34,-5
+"2011/2012",Poland Ekstraklasa,Cracovia,22,29,-7
+"2013/2014",Poland Ekstraklasa,Cracovia,39,22,17
+"2014/2015",Poland Ekstraklasa,Cracovia,37,39,-2
+"2015/2016",Poland Ekstraklasa,Cracovia,45,37,8
+"2013/2014",England Premier League,Crystal Palace,45,,
+"2014/2015",England Premier League,Crystal Palace,48,45,3
+"2015/2016",England Premier League,Crystal Palace,42,48,-6
+"2014/2015",Spain LIGA BBVA,Córdoba CF,20,,
+"2008/2009",Germany 1. Bundesliga,DSC Arminia Bielefeld,28,,
+"2008/2009",Netherlands Eredivisie,De Graafschap,30,,
+"2010/2011",Netherlands Eredivisie,De Graafschap,38,30,8
+"2011/2012",Netherlands Eredivisie,De Graafschap,24,38,-14
+"2015/2016",Netherlands Eredivisie,De Graafschap,23,24,-1
+"2011/2012",France Ligue 1,Dijon FCO,36,,
+"2012/2013",Scotland Premier League,Dundee FC,30,,
+"2014/2015",Scotland Premier League,Dundee FC,45,30,15
+"2015/2016",Scotland Premier League,Dundee FC,48,45,3
+"2008/2009",Scotland Premier League,Dundee United,53,,
+"2009/2010",Scotland Premier League,Dundee United,63,53,10
+"2010/2011",Scotland Premier League,Dundee United,61,63,-2
+"2011/2012",Scotland Premier League,Dundee United,59,61,-2
+"2012/2013",Scotland Premier League,Dundee United,47,59,-12
+"2013/2014",Scotland Premier League,Dundee United,58,47,11
+"2014/2015",Scotland Premier League,Dundee United,56,58,-2
+"2015/2016",Scotland Premier League,Dundee United,31,56,-25
+"2011/2012",Scotland Premier League,Dunfermline Athletic,25,,
+"2012/2013",France Ligue 1,ES Troyes AC,37,,
+"2015/2016",France Ligue 1,ES Troyes AC,18,37,-19
+"2013/2014",Germany 1. Bundesliga,Eintracht Braunschweig,25,,
+"2008/2009",Germany 1. Bundesliga,Eintracht Frankfurt,33,,
+"2009/2010",Germany 1. Bundesliga,Eintracht Frankfurt,46,33,13
+"2010/2011",Germany 1. Bundesliga,Eintracht Frankfurt,34,46,-12
+"2012/2013",Germany 1. Bundesliga,Eintracht Frankfurt,51,34,17
+"2013/2014",Germany 1. Bundesliga,Eintracht Frankfurt,36,51,-15
+"2014/2015",Germany 1. Bundesliga,Eintracht Frankfurt,43,36,7
+"2015/2016",Germany 1. Bundesliga,Eintracht Frankfurt,36,43,-7
+"2013/2014",Spain LIGA BBVA,Elche CF,40,,
+"2014/2015",Spain LIGA BBVA,Elche CF,41,40,1
+"2014/2015",Italy Serie A,Empoli,42,,
+"2015/2016",Italy Serie A,Empoli,46,42,4
+"2013/2014",France Ligue 1,En Avant de Guingamp,42,,
+"2014/2015",France Ligue 1,En Avant de Guingamp,49,42,7
+"2015/2016",France Ligue 1,En Avant de Guingamp,44,49,-5
+"2012/2013",Portugal Liga ZON Sagres,Estoril Praia,45,,
+"2013/2014",Portugal Liga ZON Sagres,Estoril Praia,54,45,9
+"2014/2015",Portugal Liga ZON Sagres,Estoril Praia,40,54,-14
+"2015/2016",Portugal Liga ZON Sagres,Estoril Praia,47,40,7
+"2008/2009",England Premier League,Everton,63,,
+"2009/2010",England Premier League,Everton,61,63,-2
+"2010/2011",England Premier League,Everton,54,61,-7
+"2011/2012",England Premier League,Everton,56,54,2
+"2012/2013",England Premier League,Everton,63,56,7
+"2013/2014",England Premier League,Everton,72,63,9
+"2014/2015",England Premier League,Everton,47,72,-25
+"2015/2016",England Premier League,Everton,47,47,0
+"2010/2011",Netherlands Eredivisie,Excelsior,35,,
+"2011/2012",Netherlands Eredivisie,Excelsior,19,35,-16
+"2014/2015",Netherlands Eredivisie,Excelsior,32,19,13
+"2015/2016",Netherlands Eredivisie,Excelsior,30,32,-2
+"2008/2009",Switzerland Super League,FC Aarau,44,,
+"2009/2010",Switzerland Super League,FC Aarau,23,44,-21
+"2013/2014",Switzerland Super League,FC Aarau,42,23,19
+"2014/2015",Switzerland Super League,FC Aarau,30,42,-12
+"2013/2014",Portugal Liga ZON Sagres,FC Arouca,31,,
+"2014/2015",Portugal Liga ZON Sagres,FC Arouca,28,31,-3
+"2015/2016",Portugal Liga ZON Sagres,FC Arouca,54,28,26
+"2011/2012",Germany 1. Bundesliga,FC Augsburg,38,,
+"2012/2013",Germany 1. Bundesliga,FC Augsburg,33,38,-5
+"2013/2014",Germany 1. Bundesliga,FC Augsburg,52,33,19
+"2014/2015",Germany 1. Bundesliga,FC Augsburg,49,52,-3
+"2015/2016",Germany 1. Bundesliga,FC Augsburg,38,49,-11
+"2008/2009",Spain LIGA BBVA,FC Barcelona,87,,
+"2009/2010",Spain LIGA BBVA,FC Barcelona,99,87,12
+"2010/2011",Spain LIGA BBVA,FC Barcelona,96,99,-3
+"2011/2012",Spain LIGA BBVA,FC Barcelona,91,96,-5
+"2012/2013",Spain LIGA BBVA,FC Barcelona,100,91,9
+"2013/2014",Spain LIGA BBVA,FC Barcelona,87,100,-13
+"2014/2015",Spain LIGA BBVA,FC Barcelona,94,87,7
+"2015/2016",Spain LIGA BBVA,FC Barcelona,91,94,-3
+"2008/2009",Switzerland Super League,FC Basel,72,,
+"2009/2010",Switzerland Super League,FC Basel,80,72,8
+"2010/2011",Switzerland Super League,FC Basel,73,80,-7
+"2011/2012",Switzerland Super League,FC Basel,74,73,1
+"2012/2013",Switzerland Super League,FC Basel,72,74,-2
+"2013/2014",Switzerland Super League,FC Basel,72,72,0
+"2014/2015",Switzerland Super League,FC Basel,78,72,6
+"2015/2016",Switzerland Super League,FC Basel,83,78,5
+"2008/2009",Germany 1. Bundesliga,FC Bayern Munich,67,,
+"2009/2010",Germany 1. Bundesliga,FC Bayern Munich,70,67,3
+"2010/2011",Germany 1. Bundesliga,FC Bayern Munich,65,70,-5
+"2011/2012",Germany 1. Bundesliga,FC Bayern Munich,73,65,8
+"2012/2013",Germany 1. Bundesliga,FC Bayern Munich,91,73,18
+"2013/2014",Germany 1. Bundesliga,FC Bayern Munich,90,91,-1
+"2014/2015",Germany 1. Bundesliga,FC Bayern Munich,79,90,-11
+"2015/2016",Germany 1. Bundesliga,FC Bayern Munich,88,79,9
+"2014/2015",Netherlands Eredivisie,FC Dordrecht,20,,
+"2008/2009",Germany 1. Bundesliga,FC Energie Cottbus,30,,
+"2008/2009",Netherlands Eredivisie,FC Groningen,56,,
+"2009/2010",Netherlands Eredivisie,FC Groningen,49,56,-7
+"2010/2011",Netherlands Eredivisie,FC Groningen,57,49,8
+"2011/2012",Netherlands Eredivisie,FC Groningen,37,57,-20
+"2012/2013",Netherlands Eredivisie,FC Groningen,43,37,6
+"2013/2014",Netherlands Eredivisie,FC Groningen,51,43,8
+"2014/2015",Netherlands Eredivisie,FC Groningen,46,51,-5
+"2015/2016",Netherlands Eredivisie,FC Groningen,50,46,4
+"2015/2016",Germany 1. Bundesliga,FC Ingolstadt 04,40,,
+"2011/2012",Switzerland Super League,FC Lausanne-Sports,30,,
+"2012/2013",Switzerland Super League,FC Lausanne-Sports,33,30,3
+"2013/2014",Switzerland Super League,FC Lausanne-Sports,24,33,-9
+"2008/2009",France Ligue 1,FC Lorient,45,,
+"2009/2010",France Ligue 1,FC Lorient,58,45,13
+"2010/2011",France Ligue 1,FC Lorient,49,58,-9
+"2011/2012",France Ligue 1,FC Lorient,39,49,-10
+"2012/2013",France Ligue 1,FC Lorient,53,39,14
+"2013/2014",France Ligue 1,FC Lorient,49,53,-4
+"2014/2015",France Ligue 1,FC Lorient,43,49,-6
+"2015/2016",France Ligue 1,FC Lorient,46,43,3
+"2008/2009",Switzerland Super League,FC Luzern,35,,
+"2009/2010",Switzerland Super League,FC Luzern,58,35,23
+"2010/2011",Switzerland Super League,FC Luzern,48,58,-10
+"2011/2012",Switzerland Super League,FC Luzern,54,48,6
+"2012/2013",Switzerland Super League,FC Luzern,42,54,-12
+"2013/2014",Switzerland Super League,FC Luzern,51,42,9
+"2014/2015",Switzerland Super League,FC Luzern,47,51,-4
+"2015/2016",Switzerland Super League,FC Luzern,54,47,7
+"2014/2015",France Ligue 1,FC Metz,30,,
+"2008/2009",France Ligue 1,FC Nantes,37,,
+"2013/2014",France Ligue 1,FC Nantes,49,37,12
+"2014/2015",France Ligue 1,FC Nantes,45,49,-4
+"2015/2016",France Ligue 1,FC Nantes,48,45,3
+"2008/2009",Portugal Liga ZON Sagres,FC Paços de Ferreira,34,,
+"2009/2010",Portugal Liga ZON Sagres,FC Paços de Ferreira,35,34,1
+"2010/2011",Portugal Liga ZON Sagres,FC Paços de Ferreira,41,35,6
+"2011/2012",Portugal Liga ZON Sagres,FC Paços de Ferreira,31,41,-10
+"2012/2013",Portugal Liga ZON Sagres,FC Paços de Ferreira,54,31,23
+"2013/2014",Portugal Liga ZON Sagres,FC Paços de Ferreira,24,54,-30
+"2014/2015",Portugal Liga ZON Sagres,FC Paços de Ferreira,47,24,23
+"2015/2016",Portugal Liga ZON Sagres,FC Paços de Ferreira,49,47,2
+"2014/2015",Portugal Liga ZON Sagres,FC Penafiel,22,,
+"2008/2009",Portugal Liga ZON Sagres,FC Porto,70,,
+"2009/2010",Portugal Liga ZON Sagres,FC Porto,68,70,-2
+"2010/2011",Portugal Liga ZON Sagres,FC Porto,84,68,16
+"2011/2012",Portugal Liga ZON Sagres,FC Porto,75,84,-9
+"2012/2013",Portugal Liga ZON Sagres,FC Porto,78,75,3
+"2013/2014",Portugal Liga ZON Sagres,FC Porto,61,78,-17
+"2014/2015",Portugal Liga ZON Sagres,FC Porto,82,61,21
+"2015/2016",Portugal Liga ZON Sagres,FC Porto,73,82,-9
+"2008/2009",Germany 1. Bundesliga,FC Schalke 04,50,,
+"2009/2010",Germany 1. Bundesliga,FC Schalke 04,65,50,15
+"2010/2011",Germany 1. Bundesliga,FC Schalke 04,40,65,-25
+"2011/2012",Germany 1. Bundesliga,FC Schalke 04,64,40,24
+"2012/2013",Germany 1. Bundesliga,FC Schalke 04,55,64,-9
+"2013/2014",Germany 1. Bundesliga,FC Schalke 04,64,55,9
+"2014/2015",Germany 1. Bundesliga,FC Schalke 04,48,64,-16
+"2015/2016",Germany 1. Bundesliga,FC Schalke 04,52,48,4
+"2008/2009",Switzerland Super League,FC Sion,37,,
+"2009/2010",Switzerland Super League,FC Sion,51,37,14
+"2010/2011",Switzerland Super League,FC Sion,54,51,3
+"2011/2012",Switzerland Super League,FC Sion,53,54,-1
+"2012/2013",Switzerland Super League,FC Sion,48,53,-5
+"2013/2014",Switzerland Super League,FC Sion,43,48,-5
+"2014/2015",Switzerland Super League,FC Sion,45,43,2
+"2015/2016",Switzerland Super League,FC Sion,50,45,5
+"2008/2009",France Ligue 1,FC Sochaux-Montbéliard,42,,
+"2009/2010",France Ligue 1,FC Sochaux-Montbéliard,41,42,-1
+"2010/2011",France Ligue 1,FC Sochaux-Montbéliard,58,41,17
+"2011/2012",France Ligue 1,FC Sochaux-Montbéliard,42,58,-16
+"2012/2013",France Ligue 1,FC Sochaux-Montbéliard,41,42,-1
+"2013/2014",France Ligue 1,FC Sochaux-Montbéliard,40,41,-1
+"2009/2010",Switzerland Super League,FC St. Gallen,46,,
+"2010/2011",Switzerland Super League,FC St. Gallen,31,46,-15
+"2012/2013",Switzerland Super League,FC St. Gallen,59,31,28
+"2013/2014",Switzerland Super League,FC St. Gallen,45,59,-14
+"2014/2015",Switzerland Super League,FC St. Gallen,47,45,2
+"2015/2016",Switzerland Super League,FC St. Gallen,38,47,-9
+"2010/2011",Germany 1. Bundesliga,FC St. Pauli,29,,
+"2010/2011",Switzerland Super League,FC Thun,49,,
+"2011/2012",Switzerland Super League,FC Thun,43,49,-6
+"2012/2013",Switzerland Super League,FC Thun,48,43,5
+"2013/2014",Switzerland Super League,FC Thun,48,48,0
+"2014/2015",Switzerland Super League,FC Thun,52,48,4
+"2015/2016",Switzerland Super League,FC Thun,41,52,-11
+"2008/2009",Netherlands Eredivisie,FC Twente,69,,
+"2009/2010",Netherlands Eredivisie,FC Twente,86,69,17
+"2010/2011",Netherlands Eredivisie,FC Twente,71,86,-15
+"2011/2012",Netherlands Eredivisie,FC Twente,60,71,-11
+"2012/2013",Netherlands Eredivisie,FC Twente,62,60,2
+"2013/2014",Netherlands Eredivisie,FC Twente,63,62,1
+"2014/2015",Netherlands Eredivisie,FC Twente,49,63,-14
+"2015/2016",Netherlands Eredivisie,FC Twente,43,49,-6
+"2008/2009",Netherlands Eredivisie,FC Utrecht,44,,
+"2009/2010",Netherlands Eredivisie,FC Utrecht,53,44,9
+"2010/2011",Netherlands Eredivisie,FC Utrecht,47,53,-6
+"2011/2012",Netherlands Eredivisie,FC Utrecht,43,47,-4
+"2012/2013",Netherlands Eredivisie,FC Utrecht,63,43,20
+"2013/2014",Netherlands Eredivisie,FC Utrecht,41,63,-22
+"2014/2015",Netherlands Eredivisie,FC Utrecht,41,41,0
+"2015/2016",Netherlands Eredivisie,FC Utrecht,53,41,12
+"2008/2009",Switzerland Super League,FC Vaduz,22,,
+"2014/2015",Switzerland Super League,FC Vaduz,31,22,9
+"2015/2016",Switzerland Super League,FC Vaduz,36,31,5
+"2008/2009",Netherlands Eredivisie,FC Volendam,29,,
+"2008/2009",Switzerland Super League,FC Zürich,79,,
+"2009/2010",Switzerland Super League,FC Zürich,45,79,-34
+"2010/2011",Switzerland Super League,FC Zürich,72,45,27
+"2011/2012",Switzerland Super League,FC Zürich,41,72,-31
+"2012/2013",Switzerland Super League,FC Zürich,55,41,14
+"2013/2014",Switzerland Super League,FC Zürich,50,55,-5
+"2014/2015",Switzerland Super League,FC Zürich,53,50,3
+"2015/2016",Switzerland Super League,FC Zürich,34,53,-19
+"2008/2009",Belgium Jupiler League,FCV Dender EH,35,,
+"2008/2009",Scotland Premier League,Falkirk,38,,
+"2009/2010",Scotland Premier League,Falkirk,31,38,-7
+"2011/2012",Portugal Liga ZON Sagres,Feirense,24,,
+"2008/2009",Netherlands Eredivisie,Feyenoord,45,,
+"2009/2010",Netherlands Eredivisie,Feyenoord,63,45,18
+"2010/2011",Netherlands Eredivisie,Feyenoord,44,63,-19
+"2011/2012",Netherlands Eredivisie,Feyenoord,70,44,26
+"2012/2013",Netherlands Eredivisie,Feyenoord,69,70,-1
+"2013/2014",Netherlands Eredivisie,Feyenoord,67,69,-2
+"2014/2015",Netherlands Eredivisie,Feyenoord,59,67,-8
+"2015/2016",Netherlands Eredivisie,Feyenoord,63,59,4
+"2008/2009",Italy Serie A,Fiorentina,68,,
+"2009/2010",Italy Serie A,Fiorentina,47,68,-21
+"2010/2011",Italy Serie A,Fiorentina,51,47,4
+"2011/2012",Italy Serie A,Fiorentina,42,51,-9
+"2012/2013",Italy Serie A,Fiorentina,70,42,28
+"2013/2014",Italy Serie A,Fiorentina,65,70,-5
+"2014/2015",Italy Serie A,Fiorentina,64,65,-1
+"2015/2016",Italy Serie A,Fiorentina,64,64,0
+"2012/2013",Germany 1. Bundesliga,Fortuna Düsseldorf,30,,
+"2015/2016",Italy Serie A,Frosinone,31,,
+"2008/2009",England Premier League,Fulham,53,,
+"2009/2010",England Premier League,Fulham,46,53,-7
+"2010/2011",England Premier League,Fulham,49,46,3
+"2011/2012",England Premier League,Fulham,52,49,3
+"2012/2013",England Premier League,Fulham,43,52,-9
+"2013/2014",England Premier League,Fulham,32,43,-11
+"2015/2016",France Ligue 1,GFC Ajaccio,37,,
+"2008/2009",Poland Ekstraklasa,GKS Bełchatów,54,,
+"2009/2010",Poland Ekstraklasa,GKS Bełchatów,48,54,-6
+"2010/2011",Poland Ekstraklasa,GKS Bełchatów,40,48,-8
+"2011/2012",Poland Ekstraklasa,GKS Bełchatów,31,40,-9
+"2012/2013",Poland Ekstraklasa,GKS Bełchatów,31,31,0
+"2014/2015",Poland Ekstraklasa,GKS Bełchatów,31,31,0
+"2008/2009",Italy Serie A,Genoa,68,,
+"2009/2010",Italy Serie A,Genoa,51,68,-17
+"2010/2011",Italy Serie A,Genoa,51,51,0
+"2011/2012",Italy Serie A,Genoa,40,51,-11
+"2012/2013",Italy Serie A,Genoa,38,40,-2
+"2013/2014",Italy Serie A,Genoa,44,38,6
+"2014/2015",Italy Serie A,Genoa,59,44,15
+"2015/2016",Italy Serie A,Genoa,46,59,-13
+"2008/2009",Spain LIGA BBVA,Getafe CF,42,,
+"2009/2010",Spain LIGA BBVA,Getafe CF,58,42,16
+"2010/2011",Spain LIGA BBVA,Getafe CF,44,58,-14
+"2011/2012",Spain LIGA BBVA,Getafe CF,47,44,3
+"2012/2013",Spain LIGA BBVA,Getafe CF,47,47,0
+"2013/2014",Spain LIGA BBVA,Getafe CF,42,47,-5
+"2014/2015",Spain LIGA BBVA,Getafe CF,37,42,-5
+"2015/2016",Spain LIGA BBVA,Getafe CF,36,37,-1
+"2011/2012",Portugal Liga ZON Sagres,Gil Vicente FC,34,,
+"2012/2013",Portugal Liga ZON Sagres,Gil Vicente FC,25,34,-9
+"2013/2014",Portugal Liga ZON Sagres,Gil Vicente FC,31,25,6
+"2014/2015",Portugal Liga ZON Sagres,Gil Vicente FC,23,31,-8
+"2008/2009",France Ligue 1,Girondins de Bordeaux,80,,
+"2009/2010",France Ligue 1,Girondins de Bordeaux,64,80,-16
+"2010/2011",France Ligue 1,Girondins de Bordeaux,51,64,-13
+"2011/2012",France Ligue 1,Girondins de Bordeaux,61,51,10
+"2012/2013",France Ligue 1,Girondins de Bordeaux,55,61,-6
+"2013/2014",France Ligue 1,Girondins de Bordeaux,53,55,-2
+"2014/2015",France Ligue 1,Girondins de Bordeaux,63,53,10
+"2015/2016",France Ligue 1,Girondins de Bordeaux,50,63,-13
+"2013/2014",Netherlands Eredivisie,Go Ahead Eagles,38,,
+"2014/2015",Netherlands Eredivisie,Go Ahead Eagles,27,38,-11
+"2011/2012",Spain LIGA BBVA,Granada CF,42,,
+"2012/2013",Spain LIGA BBVA,Granada CF,42,42,0
+"2013/2014",Spain LIGA BBVA,Granada CF,41,42,-1
+"2014/2015",Spain LIGA BBVA,Granada CF,35,41,-6
+"2015/2016",Spain LIGA BBVA,Granada CF,39,35,4
+"2008/2009",Switzerland Super League,Grasshopper Club Zürich,50,,
+"2009/2010",Switzerland Super League,Grasshopper Club Zürich,65,50,15
+"2010/2011",Switzerland Super League,Grasshopper Club Zürich,41,65,-24
+"2011/2012",Switzerland Super League,Grasshopper Club Zürich,26,41,-15
+"2012/2013",Switzerland Super League,Grasshopper Club Zürich,69,26,43
+"2013/2014",Switzerland Super League,Grasshopper Club Zürich,65,69,-4
+"2014/2015",Switzerland Super League,Grasshopper Club Zürich,43,65,-22
+"2015/2016",Switzerland Super League,Grasshopper Club Zürich,53,43,10
+"2008/2009",France Ligue 1,Grenoble Foot 38,44,,
+"2009/2010",France Ligue 1,Grenoble Foot 38,23,44,-21
+"2014/2015",Poland Ekstraklasa,Górnik Łęczna,34,,
+"2015/2016",Poland Ekstraklasa,Górnik Łęczna,31,34,-3
+"2008/2009",Germany 1. Bundesliga,Hamburger SV,61,,
+"2009/2010",Germany 1. Bundesliga,Hamburger SV,52,61,-9
+"2010/2011",Germany 1. Bundesliga,Hamburger SV,45,52,-7
+"2011/2012",Germany 1. Bundesliga,Hamburger SV,36,45,-9
+"2012/2013",Germany 1. Bundesliga,Hamburger SV,48,36,12
+"2013/2014",Germany 1. Bundesliga,Hamburger SV,27,48,-21
+"2014/2015",Germany 1. Bundesliga,Hamburger SV,35,27,8
+"2015/2016",Germany 1. Bundesliga,Hamburger SV,41,35,6
+"2008/2009",Scotland Premier League,Hamilton Academical FC,41,,
+"2009/2010",Scotland Premier League,Hamilton Academical FC,49,41,8
+"2010/2011",Scotland Premier League,Hamilton Academical FC,26,49,-23
+"2014/2015",Scotland Premier League,Hamilton Academical FC,53,26,27
+"2015/2016",Scotland Premier League,Hamilton Academical FC,43,53,-10
+"2008/2009",Germany 1. Bundesliga,Hannover 96,40,,
+"2009/2010",Germany 1. Bundesliga,Hannover 96,33,40,-7
+"2010/2011",Germany 1. Bundesliga,Hannover 96,60,33,27
+"2011/2012",Germany 1. Bundesliga,Hannover 96,48,60,-12
+"2012/2013",Germany 1. Bundesliga,Hannover 96,45,48,-3
+"2013/2014",Germany 1. Bundesliga,Hannover 96,42,45,-3
+"2014/2015",Germany 1. Bundesliga,Hannover 96,37,42,-5
+"2015/2016",Germany 1. Bundesliga,Hannover 96,25,37,-12
+"2008/2009",Scotland Premier League,Heart of Midlothian,59,,
+"2009/2010",Scotland Premier League,Heart of Midlothian,48,59,-11
+"2010/2011",Scotland Premier League,Heart of Midlothian,63,48,15
+"2011/2012",Scotland Premier League,Heart of Midlothian,52,63,-11
+"2012/2013",Scotland Premier League,Heart of Midlothian,44,52,-8
+"2013/2014",Scotland Premier League,Heart of Midlothian,38,44,-6
+"2015/2016",Scotland Premier League,Heart of Midlothian,65,38,27
+"2013/2014",Italy Serie A,Hellas Verona,54,,
+"2014/2015",Italy Serie A,Hellas Verona,46,54,-8
+"2015/2016",Italy Serie A,Hellas Verona,28,46,-18
+"2008/2009",Netherlands Eredivisie,Heracles Almelo,32,,
+"2009/2010",Netherlands Eredivisie,Heracles Almelo,56,32,24
+"2010/2011",Netherlands Eredivisie,Heracles Almelo,49,56,-7
+"2011/2012",Netherlands Eredivisie,Heracles Almelo,40,49,-9
+"2012/2013",Netherlands Eredivisie,Heracles Almelo,38,40,-2
+"2013/2014",Netherlands Eredivisie,Heracles Almelo,37,38,-1
+"2014/2015",Netherlands Eredivisie,Heracles Almelo,37,37,0
+"2015/2016",Netherlands Eredivisie,Heracles Almelo,51,37,14
+"2008/2009",Germany 1. Bundesliga,Hertha BSC Berlin,63,,
+"2009/2010",Germany 1. Bundesliga,Hertha BSC Berlin,24,63,-39
+"2011/2012",Germany 1. Bundesliga,Hertha BSC Berlin,31,24,7
+"2013/2014",Germany 1. Bundesliga,Hertha BSC Berlin,41,31,10
+"2014/2015",Germany 1. Bundesliga,Hertha BSC Berlin,35,41,-6
+"2015/2016",Germany 1. Bundesliga,Hertha BSC Berlin,50,35,15
+"2008/2009",Scotland Premier League,Hibernian,47,,
+"2009/2010",Scotland Premier League,Hibernian,54,47,7
+"2010/2011",Scotland Premier League,Hibernian,37,54,-17
+"2011/2012",Scotland Premier League,Hibernian,33,37,-4
+"2012/2013",Scotland Premier League,Hibernian,51,33,18
+"2013/2014",Scotland Premier League,Hibernian,35,51,-16
+"2008/2009",England Premier League,Hull City,35,,
+"2009/2010",England Premier League,Hull City,30,35,-5
+"2013/2014",England Premier League,Hull City,37,30,7
+"2014/2015",England Premier League,Hull City,35,37,-2
+"2010/2011",Spain LIGA BBVA,Hércules Club de Fútbol,35,,
+"2008/2009",Italy Serie A,Inter,84,,
+"2009/2010",Italy Serie A,Inter,82,84,-2
+"2010/2011",Italy Serie A,Inter,76,82,-6
+"2011/2012",Italy Serie A,Inter,57,76,-19
+"2012/2013",Italy Serie A,Inter,54,57,-3
+"2013/2014",Italy Serie A,Inter,60,54,6
+"2014/2015",Italy Serie A,Inter,55,60,-5
+"2015/2016",Italy Serie A,Inter,67,55,12
+"2008/2009",Scotland Premier League,Inverness Caledonian Thistle,37,,
+"2010/2011",Scotland Premier League,Inverness Caledonian Thistle,53,37,16
+"2011/2012",Scotland Premier League,Inverness Caledonian Thistle,39,53,-14
+"2012/2013",Scotland Premier League,Inverness Caledonian Thistle,54,39,15
+"2013/2014",Scotland Premier League,Inverness Caledonian Thistle,57,54,3
+"2014/2015",Scotland Premier League,Inverness Caledonian Thistle,65,57,8
+"2015/2016",Scotland Premier League,Inverness Caledonian Thistle,52,65,-13
+"2008/2009",Poland Ekstraklasa,Jagiellonia Białystok,34,,
+"2009/2010",Poland Ekstraklasa,Jagiellonia Białystok,44,34,10
+"2010/2011",Poland Ekstraklasa,Jagiellonia Białystok,48,44,4
+"2011/2012",Poland Ekstraklasa,Jagiellonia Białystok,39,48,-9
+"2012/2013",Poland Ekstraklasa,Jagiellonia Białystok,37,39,-2
+"2013/2014",Poland Ekstraklasa,Jagiellonia Białystok,39,37,2
+"2014/2015",Poland Ekstraklasa,Jagiellonia Białystok,49,39,10
+"2015/2016",Poland Ekstraklasa,Jagiellonia Białystok,35,49,-14
+"2008/2009",Italy Serie A,Juventus,74,,
+"2009/2010",Italy Serie A,Juventus,55,74,-19
+"2010/2011",Italy Serie A,Juventus,58,55,3
+"2011/2012",Italy Serie A,Juventus,79,58,21
+"2012/2013",Italy Serie A,Juventus,87,79,8
+"2013/2014",Italy Serie A,Juventus,102,87,15
+"2014/2015",Italy Serie A,Juventus,87,102,-15
+"2015/2016",Italy Serie A,Juventus,91,87,4
+"2008/2009",Belgium Jupiler League,KAA Gent,59,,
+"2009/2010",Belgium Jupiler League,KAA Gent,49,59,-10
+"2010/2011",Belgium Jupiler League,KAA Gent,57,49,8
+"2011/2012",Belgium Jupiler League,KAA Gent,56,57,-1
+"2012/2013",Belgium Jupiler League,KAA Gent,34,56,-22
+"2013/2014",Belgium Jupiler League,KAA Gent,10,34,-24
+"2014/2015",Belgium Jupiler League,KAA Gent,57,10,47
+"2015/2016",Belgium Jupiler League,KAA Gent,60,57,3
+"2010/2011",Belgium Jupiler League,KAS Eupen,23,,
+"2008/2009",Belgium Jupiler League,KRC Genk,50,,
+"2009/2010",Belgium Jupiler League,KRC Genk,34,50,-16
+"2010/2011",Belgium Jupiler League,KRC Genk,64,34,30
+"2011/2012",Belgium Jupiler League,KRC Genk,46,64,-18
+"2012/2013",Belgium Jupiler League,KRC Genk,55,46,9
+"2014/2015",Belgium Jupiler League,KRC Genk,49,55,-6
+"2015/2016",Belgium Jupiler League,KRC Genk,48,49,-1
+"2008/2009",Belgium Jupiler League,KSV Cercle Brugge,47,,
+"2009/2010",Belgium Jupiler League,KSV Cercle Brugge,38,47,-9
+"2010/2011",Belgium Jupiler League,KSV Cercle Brugge,39,38,1
+"2011/2012",Belgium Jupiler League,KSV Cercle Brugge,46,39,7
+"2012/2013",Belgium Jupiler League,KSV Cercle Brugge,14,46,-32
+"2014/2015",Belgium Jupiler League,KSV Cercle Brugge,24,14,10
+"2008/2009",Belgium Jupiler League,KSV Roeselare,30,,
+"2009/2010",Belgium Jupiler League,KSV Roeselare,18,30,-12
+"2008/2009",Belgium Jupiler League,KV Kortrijk,38,,
+"2009/2010",Belgium Jupiler League,KV Kortrijk,45,38,7
+"2010/2011",Belgium Jupiler League,KV Kortrijk,38,45,-7
+"2011/2012",Belgium Jupiler League,KV Kortrijk,46,38,8
+"2012/2013",Belgium Jupiler League,KV Kortrijk,39,46,-7
+"2014/2015",Belgium Jupiler League,KV Kortrijk,51,39,12
+"2015/2016",Belgium Jupiler League,KV Kortrijk,39,51,-12
+"2008/2009",Belgium Jupiler League,KV Mechelen,46,,
+"2009/2010",Belgium Jupiler League,KV Mechelen,39,46,-7
+"2010/2011",Belgium Jupiler League,KV Mechelen,48,39,9
+"2011/2012",Belgium Jupiler League,KV Mechelen,37,48,-11
+"2012/2013",Belgium Jupiler League,KV Mechelen,41,37,4
+"2014/2015",Belgium Jupiler League,KV Mechelen,41,41,0
+"2015/2016",Belgium Jupiler League,KV Mechelen,37,41,-4
+"2013/2014",Belgium Jupiler League,KV Oostende,14,,
+"2014/2015",Belgium Jupiler League,KV Oostende,38,14,24
+"2015/2016",Belgium Jupiler League,KV Oostende,49,38,11
+"2008/2009",Belgium Jupiler League,KVC Westerlo,52,,
+"2009/2010",Belgium Jupiler League,KVC Westerlo,32,52,-20
+"2010/2011",Belgium Jupiler League,KVC Westerlo,41,32,9
+"2011/2012",Belgium Jupiler League,KVC Westerlo,20,41,-21
+"2014/2015",Belgium Jupiler League,KVC Westerlo,33,20,13
+"2015/2016",Belgium Jupiler League,KVC Westerlo,30,33,-3
+"2008/2009",Germany 1. Bundesliga,Karlsruher SC,29,,
+"2008/2009",Scotland Premier League,Kilmarnock,44,,
+"2009/2010",Scotland Premier League,Kilmarnock,33,44,-11
+"2010/2011",Scotland Premier League,Kilmarnock,49,33,16
+"2011/2012",Scotland Premier League,Kilmarnock,47,49,-2
+"2012/2013",Scotland Premier League,Kilmarnock,45,47,-2
+"2013/2014",Scotland Premier League,Kilmarnock,39,45,-6
+"2014/2015",Scotland Premier League,Kilmarnock,41,39,2
+"2015/2016",Scotland Premier League,Kilmarnock,36,41,-5
+"2009/2010",Poland Ekstraklasa,Korona Kielce,37,,
+"2010/2011",Poland Ekstraklasa,Korona Kielce,37,37,0
+"2011/2012",Poland Ekstraklasa,Korona Kielce,48,37,11
+"2012/2013",Poland Ekstraklasa,Korona Kielce,36,48,-12
+"2013/2014",Poland Ekstraklasa,Korona Kielce,37,36,1
+"2014/2015",Poland Ekstraklasa,Korona Kielce,39,37,2
+"2015/2016",Poland Ekstraklasa,Korona Kielce,37,39,-2
+"2008/2009",France Ligue 1,LOSC Lille,64,,
+"2009/2010",France Ligue 1,LOSC Lille,70,64,6
+"2010/2011",France Ligue 1,LOSC Lille,76,70,6
+"2011/2012",France Ligue 1,LOSC Lille,74,76,-2
+"2012/2013",France Ligue 1,LOSC Lille,62,74,-12
+"2013/2014",France Ligue 1,LOSC Lille,71,62,9
+"2014/2015",France Ligue 1,LOSC Lille,56,71,-15
+"2015/2016",France Ligue 1,LOSC Lille,60,56,4
+"2008/2009",Italy Serie A,Lazio,50,,
+"2009/2010",Italy Serie A,Lazio,46,50,-4
+"2010/2011",Italy Serie A,Lazio,66,46,20
+"2011/2012",Italy Serie A,Lazio,59,66,-7
+"2012/2013",Italy Serie A,Lazio,61,59,2
+"2013/2014",Italy Serie A,Lazio,56,61,-5
+"2014/2015",Italy Serie A,Lazio,66,56,10
+"2015/2016",Italy Serie A,Lazio,54,66,-12
+"2008/2009",France Ligue 1,Le Havre AC,26,,
+"2008/2009",France Ligue 1,Le Mans FC,40,,
+"2009/2010",France Ligue 1,Le Mans FC,32,40,-8
+"2008/2009",Italy Serie A,Lecce,30,,
+"2010/2011",Italy Serie A,Lecce,41,30,11
+"2011/2012",Italy Serie A,Lecce,34,41,-7
+"2008/2009",Poland Ekstraklasa,Lech Poznań,59,,
+"2009/2010",Poland Ekstraklasa,Lech Poznań,65,59,6
+"2010/2011",Poland Ekstraklasa,Lech Poznań,45,65,-20
+"2011/2012",Poland Ekstraklasa,Lech Poznań,52,45,7
+"2012/2013",Poland Ekstraklasa,Lech Poznań,61,52,9
+"2013/2014",Poland Ekstraklasa,Lech Poznań,53,61,-8
+"2014/2015",Poland Ekstraklasa,Lech Poznań,54,53,1
+"2015/2016",Poland Ekstraklasa,Lech Poznań,43,54,-11
+"2008/2009",Poland Ekstraklasa,Lechia Gdańsk,32,,
+"2009/2010",Poland Ekstraklasa,Lechia Gdańsk,37,32,5
+"2010/2011",Poland Ekstraklasa,Lechia Gdańsk,43,37,6
+"2011/2012",Poland Ekstraklasa,Lechia Gdańsk,31,43,-12
+"2012/2013",Poland Ekstraklasa,Lechia Gdańsk,38,31,7
+"2013/2014",Poland Ekstraklasa,Lechia Gdańsk,40,38,2
+"2014/2015",Poland Ekstraklasa,Lechia Gdańsk,41,40,1
+"2015/2016",Poland Ekstraklasa,Lechia Gdańsk,39,41,-2
+"2008/2009",Poland Ekstraklasa,Legia Warszawa,61,,
+"2009/2010",Poland Ekstraklasa,Legia Warszawa,52,61,-9
+"2010/2011",Poland Ekstraklasa,Legia Warszawa,49,52,-3
+"2011/2012",Poland Ekstraklasa,Legia Warszawa,53,49,4
+"2012/2013",Poland Ekstraklasa,Legia Warszawa,67,53,14
+"2013/2014",Poland Ekstraklasa,Legia Warszawa,63,67,-4
+"2014/2015",Poland Ekstraklasa,Legia Warszawa,56,63,-7
+"2015/2016",Poland Ekstraklasa,Legia Warszawa,60,56,4
+"2014/2015",England Premier League,Leicester City,41,,
+"2015/2016",England Premier League,Leicester City,81,41,40
+"2008/2009",Portugal Liga ZON Sagres,Leixões SC,45,,
+"2009/2010",Portugal Liga ZON Sagres,Leixões SC,21,45,-24
+"2010/2011",Spain LIGA BBVA,Levante UD,45,,
+"2011/2012",Spain LIGA BBVA,Levante UD,55,45,10
+"2012/2013",Spain LIGA BBVA,Levante UD,46,55,-9
+"2013/2014",Spain LIGA BBVA,Levante UD,48,46,2
+"2014/2015",Spain LIGA BBVA,Levante UD,37,48,-11
+"2015/2016",Spain LIGA BBVA,Levante UD,32,37,-5
+"2010/2011",Belgium Jupiler League,Lierse SK,24,,
+"2011/2012",Belgium Jupiler League,Lierse SK,31,24,7
+"2012/2013",Belgium Jupiler League,Lierse SK,26,31,-5
+"2013/2014",Belgium Jupiler League,Lierse SK,6,26,-20
+"2014/2015",Belgium Jupiler League,Lierse SK,22,6,16
+"2008/2009",England Premier League,Liverpool,86,,
+"2009/2010",England Premier League,Liverpool,63,86,-23
+"2010/2011",England Premier League,Liverpool,58,63,-5
+"2011/2012",England Premier League,Liverpool,52,58,-6
+"2012/2013",England Premier League,Liverpool,61,52,9
+"2013/2014",England Premier League,Liverpool,84,61,23
+"2014/2015",England Premier League,Liverpool,62,84,-22
+"2015/2016",England Premier League,Liverpool,60,62,-2
+"2009/2010",Italy Serie A,Livorno,29,,
+"2013/2014",Italy Serie A,Livorno,25,29,-4
+"2015/2016",Switzerland Super League,Lugano,35,,
+"2008/2009",England Premier League,Manchester City,50,,
+"2009/2010",England Premier League,Manchester City,67,50,17
+"2010/2011",England Premier League,Manchester City,71,67,4
+"2011/2012",England Premier League,Manchester City,89,71,18
+"2012/2013",England Premier League,Manchester City,78,89,-11
+"2013/2014",England Premier League,Manchester City,86,78,8
+"2014/2015",England Premier League,Manchester City,79,86,-7
+"2015/2016",England Premier League,Manchester City,66,79,-13
+"2008/2009",England Premier League,Manchester United,90,,
+"2009/2010",England Premier League,Manchester United,85,90,-5
+"2010/2011",England Premier League,Manchester United,80,85,-5
+"2011/2012",England Premier League,Manchester United,89,80,9
+"2012/2013",England Premier League,Manchester United,89,89,0
+"2013/2014",England Premier League,Manchester United,64,89,-25
+"2014/2015",England Premier League,Manchester United,70,64,6
+"2015/2016",England Premier League,Manchester United,66,70,-4
+"2008/2009",England Premier League,Middlesbrough,32,,
+"2008/2009",Italy Serie A,Milan,74,,
+"2009/2010",Italy Serie A,Milan,70,74,-4
+"2010/2011",Italy Serie A,Milan,82,70,12
+"2011/2012",Italy Serie A,Milan,77,82,-5
+"2012/2013",Italy Serie A,Milan,72,77,-5
+"2013/2014",Italy Serie A,Milan,57,72,-15
+"2014/2015",Italy Serie A,Milan,52,57,-5
+"2015/2016",Italy Serie A,Milan,57,52,5
+"2009/2010",France Ligue 1,Montpellier Hérault SC,69,,
+"2010/2011",France Ligue 1,Montpellier Hérault SC,47,69,-22
+"2011/2012",France Ligue 1,Montpellier Hérault SC,82,47,35
+"2012/2013",France Ligue 1,Montpellier Hérault SC,52,82,-30
+"2013/2014",France Ligue 1,Montpellier Hérault SC,42,52,-10
+"2014/2015",France Ligue 1,Montpellier Hérault SC,56,42,14
+"2015/2016",France Ligue 1,Montpellier Hérault SC,49,56,-7
+"2012/2013",Portugal Liga ZON Sagres,Moreirense FC,24,,
+"2014/2015",Portugal Liga ZON Sagres,Moreirense FC,43,24,19
+"2015/2016",Portugal Liga ZON Sagres,Moreirense FC,36,43,-7
+"2008/2009",Scotland Premier League,Motherwell,48,,
+"2009/2010",Scotland Premier League,Motherwell,53,48,5
+"2010/2011",Scotland Premier League,Motherwell,46,53,-7
+"2011/2012",Scotland Premier League,Motherwell,62,46,16
+"2012/2013",Scotland Premier League,Motherwell,63,62,1
+"2013/2014",Scotland Premier League,Motherwell,70,63,7
+"2014/2015",Scotland Premier League,Motherwell,36,70,-34
+"2015/2016",Scotland Premier League,Motherwell,50,36,14
+"2008/2009",Spain LIGA BBVA,Málaga CF,55,,
+"2009/2010",Spain LIGA BBVA,Málaga CF,37,55,-18
+"2010/2011",Spain LIGA BBVA,Málaga CF,46,37,9
+"2011/2012",Spain LIGA BBVA,Málaga CF,58,46,12
+"2012/2013",Spain LIGA BBVA,Málaga CF,57,58,-1
+"2013/2014",Spain LIGA BBVA,Málaga CF,45,57,-12
+"2014/2015",Spain LIGA BBVA,Málaga CF,50,45,5
+"2015/2016",Spain LIGA BBVA,Málaga CF,48,50,-2
+"2008/2009",Netherlands Eredivisie,N.E.C.,42,,
+"2009/2010",Netherlands Eredivisie,N.E.C.,33,42,-9
+"2010/2011",Netherlands Eredivisie,N.E.C.,43,33,10
+"2011/2012",Netherlands Eredivisie,N.E.C.,45,43,2
+"2012/2013",Netherlands Eredivisie,N.E.C.,37,45,-8
+"2013/2014",Netherlands Eredivisie,N.E.C.,30,37,-7
+"2015/2016",Netherlands Eredivisie,N.E.C.,46,30,16
+"2008/2009",Netherlands Eredivisie,NAC Breda,45,,
+"2009/2010",Netherlands Eredivisie,NAC Breda,46,45,1
+"2010/2011",Netherlands Eredivisie,NAC Breda,41,46,-5
+"2011/2012",Netherlands Eredivisie,NAC Breda,38,41,-3
+"2012/2013",Netherlands Eredivisie,NAC Breda,38,38,0
+"2013/2014",Netherlands Eredivisie,NAC Breda,35,38,-3
+"2014/2015",Netherlands Eredivisie,NAC Breda,28,35,-7
+"2008/2009",Italy Serie A,Napoli,46,,
+"2009/2010",Italy Serie A,Napoli,59,46,13
+"2010/2011",Italy Serie A,Napoli,70,59,11
+"2011/2012",Italy Serie A,Napoli,60,70,-10
+"2012/2013",Italy Serie A,Napoli,78,60,18
+"2013/2014",Italy Serie A,Napoli,78,78,0
+"2014/2015",Italy Serie A,Napoli,63,78,-15
+"2015/2016",Italy Serie A,Napoli,82,63,19
+"2008/2009",Portugal Liga ZON Sagres,Naval 1° de Maio,29,,
+"2009/2010",Portugal Liga ZON Sagres,Naval 1° de Maio,36,29,7
+"2010/2011",Portugal Liga ZON Sagres,Naval 1° de Maio,23,36,-13
+"2008/2009",Switzerland Super League,Neuchâtel Xamax,40,,
+"2009/2010",Switzerland Super League,Neuchâtel Xamax,41,40,1
+"2010/2011",Switzerland Super League,Neuchâtel Xamax,32,41,-9
+"2011/2012",Switzerland Super League,Neuchâtel Xamax,26,32,-6
+"2008/2009",England Premier League,Newcastle United,34,,
+"2010/2011",England Premier League,Newcastle United,46,34,12
+"2011/2012",England Premier League,Newcastle United,65,46,19
+"2012/2013",England Premier League,Newcastle United,41,65,-24
+"2013/2014",England Premier League,Newcastle United,49,41,8
+"2014/2015",England Premier League,Newcastle United,39,49,-10
+"2015/2016",England Premier League,Newcastle United,37,39,-2
+"2011/2012",England Premier League,Norwich City,47,,
+"2012/2013",England Premier League,Norwich City,44,47,-3
+"2013/2014",England Premier League,Norwich City,33,44,-11
+"2015/2016",England Premier League,Norwich City,34,33,1
+"2011/2012",Italy Serie A,Novara,29,,
+"2008/2009",France Ligue 1,OGC Nice,50,,
+"2009/2010",France Ligue 1,OGC Nice,44,50,-6
+"2010/2011",France Ligue 1,OGC Nice,46,44,2
+"2011/2012",France Ligue 1,OGC Nice,42,46,-4
+"2012/2013",France Ligue 1,OGC Nice,64,42,22
+"2013/2014",France Ligue 1,OGC Nice,42,64,-22
+"2014/2015",France Ligue 1,OGC Nice,48,42,6
+"2015/2016",France Ligue 1,OGC Nice,63,48,15
+"2008/2009",Poland Ekstraklasa,Odra Wodzisław,32,,
+"2009/2010",Poland Ekstraklasa,Odra Wodzisław,27,32,-5
+"2008/2009",France Ligue 1,Olympique Lyonnais,71,,
+"2009/2010",France Ligue 1,Olympique Lyonnais,72,71,1
+"2010/2011",France Ligue 1,Olympique Lyonnais,64,72,-8
+"2011/2012",France Ligue 1,Olympique Lyonnais,64,64,0
+"2012/2013",France Ligue 1,Olympique Lyonnais,67,64,3
+"2013/2014",France Ligue 1,Olympique Lyonnais,61,67,-6
+"2014/2015",France Ligue 1,Olympique Lyonnais,75,61,14
+"2015/2016",France Ligue 1,Olympique Lyonnais,65,75,-10
+"2008/2009",France Ligue 1,Olympique de Marseille,77,,
+"2009/2010",France Ligue 1,Olympique de Marseille,78,77,1
+"2010/2011",France Ligue 1,Olympique de Marseille,68,78,-10
+"2011/2012",France Ligue 1,Olympique de Marseille,48,68,-20
+"2012/2013",France Ligue 1,Olympique de Marseille,71,48,23
+"2013/2014",France Ligue 1,Olympique de Marseille,60,71,-11
+"2014/2015",France Ligue 1,Olympique de Marseille,69,60,9
+"2015/2016",France Ligue 1,Olympique de Marseille,48,69,-21
+"2011/2012",Belgium Jupiler League,Oud-Heverlee Leuven,29,,
+"2012/2013",Belgium Jupiler League,Oud-Heverlee Leuven,36,29,7
+"2015/2016",Belgium Jupiler League,Oud-Heverlee Leuven,29,36,-7
+"2008/2009",Poland Ekstraklasa,P. Warszawa,54,,
+"2009/2010",Poland Ekstraklasa,P. Warszawa,33,54,-21
+"2010/2011",Poland Ekstraklasa,P. Warszawa,44,33,11
+"2011/2012",Poland Ekstraklasa,P. Warszawa,45,44,1
+"2012/2013",Poland Ekstraklasa,P. Warszawa,42,45,-3
+"2012/2013",Netherlands Eredivisie,PEC Zwolle,39,,
+"2013/2014",Netherlands Eredivisie,PEC Zwolle,40,39,1
+"2014/2015",Netherlands Eredivisie,PEC Zwolle,53,40,13
+"2015/2016",Netherlands Eredivisie,PEC Zwolle,48,53,-5
+"2008/2009",Netherlands Eredivisie,PSV,65,,
+"2009/2010",Netherlands Eredivisie,PSV,78,65,13
+"2010/2011",Netherlands Eredivisie,PSV,69,78,-9
+"2011/2012",Netherlands Eredivisie,PSV,69,69,0
+"2012/2013",Netherlands Eredivisie,PSV,69,69,0
+"2013/2014",Netherlands Eredivisie,PSV,59,69,-10
+"2014/2015",Netherlands Eredivisie,PSV,88,59,29
+"2015/2016",Netherlands Eredivisie,PSV,84,88,-4
+"2008/2009",Italy Serie A,Palermo,57,,
+"2009/2010",Italy Serie A,Palermo,65,57,8
+"2010/2011",Italy Serie A,Palermo,56,65,-9
+"2011/2012",Italy Serie A,Palermo,43,56,-13
+"2012/2013",Italy Serie A,Palermo,32,43,-11
+"2014/2015",Italy Serie A,Palermo,49,32,17
+"2015/2016",Italy Serie A,Palermo,39,49,-10
+"2008/2009",France Ligue 1,Paris Saint-Germain,64,,
+"2009/2010",France Ligue 1,Paris Saint-Germain,47,64,-17
+"2010/2011",France Ligue 1,Paris Saint-Germain,60,47,13
+"2011/2012",France Ligue 1,Paris Saint-Germain,79,60,19
+"2012/2013",France Ligue 1,Paris Saint-Germain,83,79,4
+"2013/2014",France Ligue 1,Paris Saint-Germain,89,83,6
+"2014/2015",France Ligue 1,Paris Saint-Germain,83,89,-6
+"2015/2016",France Ligue 1,Paris Saint-Germain,96,83,13
+"2009/2010",Italy Serie A,Parma,52,,
+"2010/2011",Italy Serie A,Parma,46,52,-6
+"2011/2012",Italy Serie A,Parma,54,46,8
+"2012/2013",Italy Serie A,Parma,49,54,-5
+"2013/2014",Italy Serie A,Parma,58,49,9
+"2014/2015",Italy Serie A,Parma,26,58,-32
+"2013/2014",Scotland Premier League,Partick Thistle F.C.,38,,
+"2014/2015",Scotland Premier League,Partick Thistle F.C.,46,38,8
+"2015/2016",Scotland Premier League,Partick Thistle F.C.,46,46,0
+"2012/2013",Italy Serie A,Pescara,22,,
+"2008/2009",Poland Ekstraklasa,Piast Gliwice,33,,
+"2009/2010",Poland Ekstraklasa,Piast Gliwice,27,33,-6
+"2012/2013",Poland Ekstraklasa,Piast Gliwice,46,27,19
+"2013/2014",Poland Ekstraklasa,Piast Gliwice,34,46,-12
+"2014/2015",Poland Ekstraklasa,Piast Gliwice,39,34,5
+"2015/2016",Poland Ekstraklasa,Piast Gliwice,58,39,19
+"2011/2012",Poland Ekstraklasa,Podbeskidzie Bielsko-Biała,35,,
+"2012/2013",Poland Ekstraklasa,Podbeskidzie Bielsko-Biała,32,35,-3
+"2013/2014",Poland Ekstraklasa,Podbeskidzie Bielsko-Biała,31,32,-1
+"2014/2015",Poland Ekstraklasa,Podbeskidzie Bielsko-Biała,39,31,8
+"2015/2016",Poland Ekstraklasa,Podbeskidzie Bielsko-Biała,38,39,-1
+"2012/2013",Poland Ekstraklasa,Pogoń Szczecin,35,,
+"2013/2014",Poland Ekstraklasa,Pogoń Szczecin,47,35,12
+"2014/2015",Poland Ekstraklasa,Pogoń Szczecin,41,47,-6
+"2015/2016",Poland Ekstraklasa,Pogoń Szczecin,46,41,5
+"2008/2009",Poland Ekstraklasa,Polonia Bytom,29,,
+"2008/2009",Poland Ekstraklasa,Polonia Bytom,35,29,6
+"2009/2010",Poland Ekstraklasa,Polonia Bytom,37,35,2
+"2010/2011",Poland Ekstraklasa,Polonia Bytom,45,37,8
+"2010/2011",Poland Ekstraklasa,Polonia Bytom,27,45,-18
+"2011/2012",Poland Ekstraklasa,Polonia Bytom,42,27,15
+"2012/2013",Poland Ekstraklasa,Polonia Bytom,43,42,1
+"2013/2014",Poland Ekstraklasa,Polonia Bytom,42,43,-1
+"2014/2015",Poland Ekstraklasa,Polonia Bytom,43,42,1
+"2015/2016",Poland Ekstraklasa,Polonia Bytom,26,43,-17
+"2010/2011",Portugal Liga ZON Sagres,Portimonense,25,,
+"2008/2009",England Premier League,Portsmouth,41,,
+"2009/2010",England Premier League,Portsmouth,28,41,-13
+"2011/2012",England Premier League,Queens Park Rangers,37,,
+"2012/2013",England Premier League,Queens Park Rangers,25,37,-12
+"2014/2015",England Premier League,Queens Park Rangers,30,25,5
+"2008/2009",Belgium Jupiler League,RAEC Mons,19,,
+"2011/2012",Belgium Jupiler League,RAEC Mons,36,19,17
+"2012/2013",Belgium Jupiler League,RAEC Mons,44,36,8
+"2012/2013",Spain LIGA BBVA,RC Celta de Vigo,37,,
+"2013/2014",Spain LIGA BBVA,RC Celta de Vigo,49,37,12
+"2014/2015",Spain LIGA BBVA,RC Celta de Vigo,51,49,2
+"2015/2016",Spain LIGA BBVA,RC Celta de Vigo,60,51,9
+"2008/2009",Spain LIGA BBVA,RC Deportivo de La Coruña,58,,
+"2009/2010",Spain LIGA BBVA,RC Deportivo de La Coruña,47,58,-11
+"2010/2011",Spain LIGA BBVA,RC Deportivo de La Coruña,43,47,-4
+"2012/2013",Spain LIGA BBVA,RC Deportivo de La Coruña,35,43,-8
+"2014/2015",Spain LIGA BBVA,RC Deportivo de La Coruña,35,35,0
+"2015/2016",Spain LIGA BBVA,RC Deportivo de La Coruña,42,35,7
+"2009/2010",France Ligue 1,RC Lens,48,,
+"2010/2011",France Ligue 1,RC Lens,35,48,-13
+"2014/2015",France Ligue 1,RC Lens,29,35,-6
+"2008/2009",Spain LIGA BBVA,RC Recreativo,33,,
+"2008/2009",Spain LIGA BBVA,RCD Espanyol,47,,
+"2009/2010",Spain LIGA BBVA,RCD Espanyol,44,47,-3
+"2010/2011",Spain LIGA BBVA,RCD Espanyol,49,44,5
+"2011/2012",Spain LIGA BBVA,RCD Espanyol,46,49,-3
+"2012/2013",Spain LIGA BBVA,RCD Espanyol,44,46,-2
+"2013/2014",Spain LIGA BBVA,RCD Espanyol,42,44,-2
+"2014/2015",Spain LIGA BBVA,RCD Espanyol,49,42,7
+"2015/2016",Spain LIGA BBVA,RCD Espanyol,43,49,-6
+"2008/2009",Spain LIGA BBVA,RCD Mallorca,51,,
+"2009/2010",Spain LIGA BBVA,RCD Mallorca,62,51,11
+"2010/2011",Spain LIGA BBVA,RCD Mallorca,44,62,-18
+"2011/2012",Spain LIGA BBVA,RCD Mallorca,52,44,8
+"2012/2013",Spain LIGA BBVA,RCD Mallorca,36,52,-16
+"2009/2010",Netherlands Eredivisie,RKC Waalwijk,15,,
+"2011/2012",Netherlands Eredivisie,RKC Waalwijk,45,15,30
+"2012/2013",Netherlands Eredivisie,RKC Waalwijk,37,45,-8
+"2013/2014",Netherlands Eredivisie,RKC Waalwijk,32,37,-5
+"2008/2009",Belgium Jupiler League,RSC Anderlecht,77,,
+"2009/2010",Belgium Jupiler League,RSC Anderlecht,69,77,-8
+"2010/2011",Belgium Jupiler League,RSC Anderlecht,65,69,-4
+"2011/2012",Belgium Jupiler League,RSC Anderlecht,67,65,2
+"2012/2013",Belgium Jupiler League,RSC Anderlecht,67,67,0
+"2014/2015",Belgium Jupiler League,RSC Anderlecht,57,67,-10
+"2015/2016",Belgium Jupiler League,RSC Anderlecht,55,57,-2
+"2008/2009",Spain LIGA BBVA,Racing Santander,46,,
+"2009/2010",Spain LIGA BBVA,Racing Santander,39,46,-7
+"2010/2011",Spain LIGA BBVA,Racing Santander,46,39,7
+"2011/2012",Spain LIGA BBVA,Racing Santander,27,46,-19
+"2008/2009",Scotland Premier League,Rangers,86,,
+"2009/2010",Scotland Premier League,Rangers,87,86,1
+"2010/2011",Scotland Premier League,Rangers,93,87,6
+"2011/2012",Scotland Premier League,Rangers,83,93,-10
+"2011/2012",Spain LIGA BBVA,Rayo Vallecano,43,,
+"2012/2013",Spain LIGA BBVA,Rayo Vallecano,53,43,10
+"2013/2014",Spain LIGA BBVA,Rayo Vallecano,43,53,-10
+"2014/2015",Spain LIGA BBVA,Rayo Vallecano,49,43,6
+"2015/2016",Spain LIGA BBVA,Rayo Vallecano,38,49,-11
+"2012/2013",England Premier League,Reading,28,,
+"2008/2009",Spain LIGA BBVA,Real Betis Balompié,42,,
+"2011/2012",Spain LIGA BBVA,Real Betis Balompié,47,42,5
+"2012/2013",Spain LIGA BBVA,Real Betis Balompié,56,47,9
+"2013/2014",Spain LIGA BBVA,Real Betis Balompié,25,56,-31
+"2015/2016",Spain LIGA BBVA,Real Betis Balompié,45,25,20
+"2008/2009",Spain LIGA BBVA,Real Madrid CF,78,,
+"2009/2010",Spain LIGA BBVA,Real Madrid CF,96,78,18
+"2010/2011",Spain LIGA BBVA,Real Madrid CF,92,96,-4
+"2011/2012",Spain LIGA BBVA,Real Madrid CF,100,92,8
+"2012/2013",Spain LIGA BBVA,Real Madrid CF,85,100,-15
+"2013/2014",Spain LIGA BBVA,Real Madrid CF,87,85,2
+"2014/2015",Spain LIGA BBVA,Real Madrid CF,92,87,5
+"2015/2016",Spain LIGA BBVA,Real Madrid CF,90,92,-2
+"2010/2011",Spain LIGA BBVA,Real Sociedad,45,,
+"2011/2012",Spain LIGA BBVA,Real Sociedad,47,45,2
+"2012/2013",Spain LIGA BBVA,Real Sociedad,66,47,19
+"2013/2014",Spain LIGA BBVA,Real Sociedad,59,66,-7
+"2014/2015",Spain LIGA BBVA,Real Sociedad,46,59,-13
+"2015/2016",Spain LIGA BBVA,Real Sociedad,48,46,2
+"2008/2009",Spain LIGA BBVA,Real Sporting de Gijón,43,,
+"2009/2010",Spain LIGA BBVA,Real Sporting de Gijón,40,43,-3
+"2010/2011",Spain LIGA BBVA,Real Sporting de Gijón,47,40,7
+"2011/2012",Spain LIGA BBVA,Real Sporting de Gijón,37,47,-10
+"2015/2016",Spain LIGA BBVA,Real Sporting de Gijón,39,37,2
+"2008/2009",Spain LIGA BBVA,Real Valladolid,43,,
+"2009/2010",Spain LIGA BBVA,Real Valladolid,36,43,-7
+"2012/2013",Spain LIGA BBVA,Real Valladolid,43,36,7
+"2013/2014",Spain LIGA BBVA,Real Valladolid,36,43,-7
+"2009/2010",Spain LIGA BBVA,Real Zaragoza,41,,
+"2010/2011",Spain LIGA BBVA,Real Zaragoza,45,41,4
+"2011/2012",Spain LIGA BBVA,Real Zaragoza,43,45,-2
+"2012/2013",Spain LIGA BBVA,Real Zaragoza,34,43,-9
+"2008/2009",Italy Serie A,Reggio Calabria,31,,
+"2008/2009",Portugal Liga ZON Sagres,Rio Ave FC,30,,
+"2009/2010",Portugal Liga ZON Sagres,Rio Ave FC,31,30,1
+"2010/2011",Portugal Liga ZON Sagres,Rio Ave FC,38,31,7
+"2011/2012",Portugal Liga ZON Sagres,Rio Ave FC,28,38,-10
+"2012/2013",Portugal Liga ZON Sagres,Rio Ave FC,42,28,14
+"2013/2014",Portugal Liga ZON Sagres,Rio Ave FC,32,42,-10
+"2014/2015",Portugal Liga ZON Sagres,Rio Ave FC,43,32,11
+"2015/2016",Portugal Liga ZON Sagres,Rio Ave FC,50,43,7
+"2008/2009",Netherlands Eredivisie,Roda JC Kerkrade,30,,
+"2009/2010",Netherlands Eredivisie,Roda JC Kerkrade,47,30,17
+"2010/2011",Netherlands Eredivisie,Roda JC Kerkrade,55,47,8
+"2011/2012",Netherlands Eredivisie,Roda JC Kerkrade,44,55,-11
+"2012/2013",Netherlands Eredivisie,Roda JC Kerkrade,33,44,-11
+"2013/2014",Netherlands Eredivisie,Roda JC Kerkrade,29,33,-4
+"2015/2016",Netherlands Eredivisie,Roda JC Kerkrade,34,29,5
+"2008/2009",Italy Serie A,Roma,63,,
+"2009/2010",Italy Serie A,Roma,80,63,17
+"2010/2011",Italy Serie A,Roma,63,80,-17
+"2011/2012",Italy Serie A,Roma,56,63,-7
+"2012/2013",Italy Serie A,Roma,62,56,6
+"2013/2014",Italy Serie A,Roma,85,62,23
+"2014/2015",Italy Serie A,Roma,70,85,-15
+"2015/2016",Italy Serie A,Roma,80,70,10
+"2012/2013",Scotland Premier League,Ross County FC,53,,
+"2013/2014",Scotland Premier League,Ross County FC,40,53,-13
+"2014/2015",Scotland Premier League,Ross County FC,44,40,4
+"2015/2016",Scotland Premier League,Ross County FC,48,44,4
+"2008/2009",Belgium Jupiler League,Royal Excel Mouscron,44,,
+"2014/2015",Belgium Jupiler League,Royal Excel Mouscron,26,44,-18
+"2015/2016",Belgium Jupiler League,Royal Excel Mouscron,30,26,4
+"2008/2009",Poland Ekstraklasa,Ruch Chorzów,34,,
+"2009/2010",Poland Ekstraklasa,Ruch Chorzów,53,34,19
+"2010/2011",Poland Ekstraklasa,Ruch Chorzów,38,53,-15
+"2011/2012",Poland Ekstraklasa,Ruch Chorzów,55,38,17
+"2012/2013",Poland Ekstraklasa,Ruch Chorzów,31,55,-24
+"2013/2014",Poland Ekstraklasa,Ruch Chorzów,50,31,19
+"2014/2015",Poland Ekstraklasa,Ruch Chorzów,33,50,-17
+"2015/2016",Poland Ekstraklasa,Ruch Chorzów,39,33,6
+"2009/2010",Portugal Liga ZON Sagres,S.C. Olhanense,29,,
+"2010/2011",Portugal Liga ZON Sagres,S.C. Olhanense,34,29,5
+"2011/2012",Portugal Liga ZON Sagres,S.C. Olhanense,39,34,5
+"2012/2013",Portugal Liga ZON Sagres,S.C. Olhanense,25,39,-14
+"2013/2014",Portugal Liga ZON Sagres,S.C. Olhanense,24,25,-1
+"2012/2013",France Ligue 1,SC Bastia,47,,
+"2013/2014",France Ligue 1,SC Bastia,46,47,-1
+"2014/2015",France Ligue 1,SC Bastia,47,46,1
+"2015/2016",France Ligue 1,SC Bastia,50,47,3
+"2010/2011",Portugal Liga ZON Sagres,SC Beira Mar,33,,
+"2011/2012",Portugal Liga ZON Sagres,SC Beira Mar,29,33,-4
+"2012/2013",Portugal Liga ZON Sagres,SC Beira Mar,23,29,-6
+"2008/2009",Portugal Liga ZON Sagres,SC Braga,50,,
+"2009/2010",Portugal Liga ZON Sagres,SC Braga,71,50,21
+"2010/2011",Portugal Liga ZON Sagres,SC Braga,46,71,-25
+"2011/2012",Portugal Liga ZON Sagres,SC Braga,62,46,16
+"2012/2013",Portugal Liga ZON Sagres,SC Braga,52,62,-10
+"2013/2014",Portugal Liga ZON Sagres,SC Braga,37,52,-15
+"2014/2015",Portugal Liga ZON Sagres,SC Braga,58,37,21
+"2015/2016",Portugal Liga ZON Sagres,SC Braga,58,58,0
+"2013/2014",Netherlands Eredivisie,SC Cambuur,39,,
+"2014/2015",Netherlands Eredivisie,SC Cambuur,41,39,2
+"2015/2016",Netherlands Eredivisie,SC Cambuur,18,41,-23
+"2009/2010",Germany 1. Bundesliga,SC Freiburg,35,,
+"2010/2011",Germany 1. Bundesliga,SC Freiburg,44,35,9
+"2011/2012",Germany 1. Bundesliga,SC Freiburg,40,44,-4
+"2012/2013",Germany 1. Bundesliga,SC Freiburg,51,40,11
+"2013/2014",Germany 1. Bundesliga,SC Freiburg,36,51,-15
+"2014/2015",Germany 1. Bundesliga,SC Freiburg,34,36,-2
+"2008/2009",Netherlands Eredivisie,SC Heerenveen,60,,
+"2009/2010",Netherlands Eredivisie,SC Heerenveen,37,60,-23
+"2010/2011",Netherlands Eredivisie,SC Heerenveen,41,37,4
+"2011/2012",Netherlands Eredivisie,SC Heerenveen,64,41,23
+"2012/2013",Netherlands Eredivisie,SC Heerenveen,42,64,-22
+"2013/2014",Netherlands Eredivisie,SC Heerenveen,57,42,15
+"2014/2015",Netherlands Eredivisie,SC Heerenveen,50,57,-7
+"2015/2016",Netherlands Eredivisie,SC Heerenveen,42,50,-8
+"2014/2015",Germany 1. Bundesliga,SC Paderborn 07,31,,
+"2014/2015",Spain LIGA BBVA,SD Eibar,35,,
+"2015/2016",Spain LIGA BBVA,SD Eibar,43,35,8
+"2008/2009",Portugal Liga ZON Sagres,SL Benfica,59,,
+"2009/2010",Portugal Liga ZON Sagres,SL Benfica,76,59,17
+"2010/2011",Portugal Liga ZON Sagres,SL Benfica,63,76,-13
+"2011/2012",Portugal Liga ZON Sagres,SL Benfica,69,63,6
+"2012/2013",Portugal Liga ZON Sagres,SL Benfica,77,69,8
+"2013/2014",Portugal Liga ZON Sagres,SL Benfica,74,77,-3
+"2014/2015",Portugal Liga ZON Sagres,SL Benfica,85,74,11
+"2015/2016",Portugal Liga ZON Sagres,SL Benfica,88,85,3
+"2008/2009",France Ligue 1,SM Caen,37,,
+"2010/2011",France Ligue 1,SM Caen,46,37,9
+"2011/2012",France Ligue 1,SM Caen,38,46,-8
+"2014/2015",France Ligue 1,SM Caen,46,38,8
+"2015/2016",France Ligue 1,SM Caen,54,46,8
+"2015/2016",Germany 1. Bundesliga,SV Darmstadt 98,38,,
+"2008/2009",Germany 1. Bundesliga,SV Werder Bremen,45,,
+"2009/2010",Germany 1. Bundesliga,SV Werder Bremen,61,45,16
+"2010/2011",Germany 1. Bundesliga,SV Werder Bremen,41,61,-20
+"2011/2012",Germany 1. Bundesliga,SV Werder Bremen,42,41,1
+"2012/2013",Germany 1. Bundesliga,SV Werder Bremen,34,42,-8
+"2013/2014",Germany 1. Bundesliga,SV Werder Bremen,39,34,5
+"2014/2015",Germany 1. Bundesliga,SV Werder Bremen,43,39,4
+"2015/2016",Germany 1. Bundesliga,SV Werder Bremen,38,43,-5
+"2008/2009",Belgium Jupiler League,SV Zulte-Waregem,55,,
+"2009/2010",Belgium Jupiler League,SV Zulte-Waregem,41,55,-14
+"2010/2011",Belgium Jupiler League,SV Zulte-Waregem,33,41,-8
+"2011/2012",Belgium Jupiler League,SV Zulte-Waregem,30,33,-3
+"2012/2013",Belgium Jupiler League,SV Zulte-Waregem,63,30,33
+"2014/2015",Belgium Jupiler League,SV Zulte-Waregem,31,63,-32
+"2015/2016",Belgium Jupiler League,SV Zulte-Waregem,43,31,12
+"2008/2009",Italy Serie A,Sampdoria,46,,
+"2009/2010",Italy Serie A,Sampdoria,67,46,21
+"2010/2011",Italy Serie A,Sampdoria,36,67,-31
+"2012/2013",Italy Serie A,Sampdoria,43,36,7
+"2013/2014",Italy Serie A,Sampdoria,45,43,2
+"2014/2015",Italy Serie A,Sampdoria,56,45,11
+"2015/2016",Italy Serie A,Sampdoria,40,56,-16
+"2013/2014",Italy Serie A,Sassuolo,34,,
+"2014/2015",Italy Serie A,Sassuolo,49,34,15
+"2015/2016",Italy Serie A,Sassuolo,61,49,12
+"2011/2012",Switzerland Super League,Servette FC,48,,
+"2012/2013",Switzerland Super League,Servette FC,26,48,-22
+"2008/2009",Spain LIGA BBVA,Sevilla FC,70,,
+"2009/2010",Spain LIGA BBVA,Sevilla FC,63,70,-7
+"2010/2011",Spain LIGA BBVA,Sevilla FC,58,63,-5
+"2011/2012",Spain LIGA BBVA,Sevilla FC,50,58,-8
+"2012/2013",Spain LIGA BBVA,Sevilla FC,50,50,0
+"2013/2014",Spain LIGA BBVA,Sevilla FC,63,50,13
+"2014/2015",Spain LIGA BBVA,Sevilla FC,76,63,13
+"2015/2016",Spain LIGA BBVA,Sevilla FC,52,76,-24
+"2008/2009",Italy Serie A,Siena,44,,
+"2009/2010",Italy Serie A,Siena,31,44,-13
+"2011/2012",Italy Serie A,Siena,38,31,7
+"2012/2013",Italy Serie A,Siena,36,38,-2
+"2009/2010",Belgium Jupiler League,Sint-Truidense VV,42,,
+"2010/2011",Belgium Jupiler League,Sint-Truidense VV,29,42,-13
+"2011/2012",Belgium Jupiler League,Sint-Truidense VV,19,29,-10
+"2015/2016",Belgium Jupiler League,Sint-Truidense VV,30,19,11
+"2012/2013",England Premier League,Southampton,41,,
+"2013/2014",England Premier League,Southampton,56,41,15
+"2014/2015",England Premier League,Southampton,60,56,4
+"2015/2016",England Premier League,Southampton,63,60,3
+"2012/2013",Germany 1. Bundesliga,SpVgg Greuther Fürth,21,,
+"2008/2009",Netherlands Eredivisie,Sparta Rotterdam,35,,
+"2009/2010",Netherlands Eredivisie,Sparta Rotterdam,26,35,-9
+"2008/2009",Portugal Liga ZON Sagres,Sporting CP,66,,
+"2009/2010",Portugal Liga ZON Sagres,Sporting CP,48,66,-18
+"2010/2011",Portugal Liga ZON Sagres,Sporting CP,48,48,0
+"2011/2012",Portugal Liga ZON Sagres,Sporting CP,59,48,11
+"2012/2013",Portugal Liga ZON Sagres,Sporting CP,42,59,-17
+"2013/2014",Portugal Liga ZON Sagres,Sporting CP,67,42,25
+"2014/2015",Portugal Liga ZON Sagres,Sporting CP,76,67,9
+"2015/2016",Portugal Liga ZON Sagres,Sporting CP,86,76,10
+"2008/2009",Belgium Jupiler League,Sporting Charleroi,43,,
+"2009/2010",Belgium Jupiler League,Sporting Charleroi,23,43,-20
+"2010/2011",Belgium Jupiler League,Sporting Charleroi,19,23,-4
+"2012/2013",Belgium Jupiler League,Sporting Charleroi,34,19,15
+"2014/2015",Belgium Jupiler League,Sporting Charleroi,49,34,15
+"2015/2016",Belgium Jupiler League,Sporting Charleroi,39,49,-10
+"2008/2009",Belgium Jupiler League,Sporting Lokeren,51,,
+"2009/2010",Belgium Jupiler League,Sporting Lokeren,18,51,-33
+"2010/2011",Belgium Jupiler League,Sporting Lokeren,50,18,32
+"2011/2012",Belgium Jupiler League,Sporting Lokeren,44,50,-6
+"2012/2013",Belgium Jupiler League,Sporting Lokeren,51,44,7
+"2014/2015",Belgium Jupiler League,Sporting Lokeren,42,51,-9
+"2015/2016",Belgium Jupiler League,Sporting Lokeren,34,42,-8
+"2009/2010",Scotland Premier League,St. Johnstone FC,47,,
+"2010/2011",Scotland Premier League,St. Johnstone FC,44,47,-3
+"2011/2012",Scotland Premier League,St. Johnstone FC,50,44,6
+"2012/2013",Scotland Premier League,St. Johnstone FC,56,50,6
+"2013/2014",Scotland Premier League,St. Johnstone FC,53,56,-3
+"2014/2015",Scotland Premier League,St. Johnstone FC,57,53,4
+"2015/2016",Scotland Premier League,St. Johnstone FC,56,57,-1
+"2008/2009",Scotland Premier League,St. Mirren,37,,
+"2009/2010",Scotland Premier League,St. Mirren,34,37,-3
+"2010/2011",Scotland Premier League,St. Mirren,33,34,-1
+"2011/2012",Scotland Premier League,St. Mirren,43,33,10
+"2012/2013",Scotland Premier League,St. Mirren,41,43,-2
+"2013/2014",Scotland Premier League,St. Mirren,39,41,-2
+"2014/2015",Scotland Premier League,St. Mirren,30,39,-9
+"2010/2011",France Ligue 1,Stade Brestois 29,46,,
+"2011/2012",France Ligue 1,Stade Brestois 29,41,46,-5
+"2012/2013",France Ligue 1,Stade Brestois 29,29,41,-12
+"2008/2009",France Ligue 1,Stade Rennais FC,61,,
+"2009/2010",France Ligue 1,Stade Rennais FC,53,61,-8
+"2010/2011",France Ligue 1,Stade Rennais FC,56,53,3
+"2011/2012",France Ligue 1,Stade Rennais FC,60,56,4
+"2012/2013",France Ligue 1,Stade Rennais FC,46,60,-14
+"2013/2014",France Ligue 1,Stade Rennais FC,46,46,0
+"2014/2015",France Ligue 1,Stade Rennais FC,50,46,4
+"2015/2016",France Ligue 1,Stade Rennais FC,52,50,2
+"2012/2013",France Ligue 1,Stade de Reims,43,,
+"2013/2014",France Ligue 1,Stade de Reims,48,43,5
+"2014/2015",France Ligue 1,Stade de Reims,44,48,-4
+"2015/2016",France Ligue 1,Stade de Reims,39,44,-5
+"2008/2009",Belgium Jupiler League,Standard de Liège,77,,
+"2009/2010",Belgium Jupiler League,Standard de Liège,39,77,-38
+"2010/2011",Belgium Jupiler League,Standard de Liège,49,39,10
+"2011/2012",Belgium Jupiler League,Standard de Liège,51,49,2
+"2012/2013",Belgium Jupiler League,Standard de Liège,50,51,-1
+"2014/2015",Belgium Jupiler League,Standard de Liège,53,50,3
+"2015/2016",Belgium Jupiler League,Standard de Liège,41,53,-12
+"2008/2009",England Premier League,Stoke City,45,,
+"2009/2010",England Premier League,Stoke City,47,45,2
+"2010/2011",England Premier League,Stoke City,46,47,-1
+"2011/2012",England Premier League,Stoke City,45,46,-1
+"2012/2013",England Premier League,Stoke City,42,45,-3
+"2013/2014",England Premier League,Stoke City,50,42,8
+"2014/2015",England Premier League,Stoke City,54,50,4
+"2015/2016",England Premier League,Stoke City,51,54,-3
+"2008/2009",England Premier League,Sunderland,36,,
+"2009/2010",England Premier League,Sunderland,44,36,8
+"2010/2011",England Premier League,Sunderland,47,44,3
+"2011/2012",England Premier League,Sunderland,45,47,-2
+"2012/2013",England Premier League,Sunderland,39,45,-6
+"2013/2014",England Premier League,Sunderland,38,39,-1
+"2014/2015",England Premier League,Sunderland,38,38,0
+"2015/2016",England Premier League,Sunderland,39,38,1
+"2011/2012",England Premier League,Swansea City,47,,
+"2012/2013",England Premier League,Swansea City,46,47,-1
+"2013/2014",England Premier League,Swansea City,42,46,-4
+"2014/2015",England Premier League,Swansea City,56,42,14
+"2015/2016",England Premier League,Swansea City,47,56,-9
+"2008/2009",Germany 1. Bundesliga,TSG 1899 Hoffenheim,55,,
+"2009/2010",Germany 1. Bundesliga,TSG 1899 Hoffenheim,42,55,-13
+"2010/2011",Germany 1. Bundesliga,TSG 1899 Hoffenheim,43,42,1
+"2011/2012",Germany 1. Bundesliga,TSG 1899 Hoffenheim,41,43,-2
+"2012/2013",Germany 1. Bundesliga,TSG 1899 Hoffenheim,31,41,-10
+"2013/2014",Germany 1. Bundesliga,TSG 1899 Hoffenheim,44,31,13
+"2014/2015",Germany 1. Bundesliga,TSG 1899 Hoffenheim,44,44,0
+"2015/2016",Germany 1. Bundesliga,TSG 1899 Hoffenheim,37,44,-7
+"2015/2016",Poland Ekstraklasa,Termalica Bruk-Bet Nieciecza,33,,
+"2015/2016",Portugal Liga ZON Sagres,Tondela,30,,
+"2008/2009",Italy Serie A,Torino,34,,
+"2012/2013",Italy Serie A,Torino,40,34,6
+"2013/2014",Italy Serie A,Torino,57,40,17
+"2014/2015",Italy Serie A,Torino,54,57,-3
+"2015/2016",Italy Serie A,Torino,45,54,-9
+"2008/2009",England Premier League,Tottenham Hotspur,51,,
+"2009/2010",England Premier League,Tottenham Hotspur,70,51,19
+"2010/2011",England Premier League,Tottenham Hotspur,62,70,-8
+"2011/2012",England Premier League,Tottenham Hotspur,69,62,7
+"2012/2013",England Premier League,Tottenham Hotspur,72,69,3
+"2013/2014",England Premier League,Tottenham Hotspur,69,72,-3
+"2014/2015",England Premier League,Tottenham Hotspur,64,69,-5
+"2015/2016",England Premier League,Tottenham Hotspur,70,64,6
+"2008/2009",France Ligue 1,Toulouse FC,64,,
+"2009/2010",France Ligue 1,Toulouse FC,47,64,-17
+"2010/2011",France Ligue 1,Toulouse FC,50,47,3
+"2011/2012",France Ligue 1,Toulouse FC,56,50,6
+"2012/2013",France Ligue 1,Toulouse FC,51,56,-5
+"2013/2014",France Ligue 1,Toulouse FC,49,51,-2
+"2014/2015",France Ligue 1,Toulouse FC,42,49,-7
+"2015/2016",France Ligue 1,Toulouse FC,40,42,-2
+"2008/2009",Portugal Liga ZON Sagres,Trofense,23,,
+"2008/2009",Belgium Jupiler League,Tubize,27,,
+"2008/2009",Spain LIGA BBVA,UD Almería,46,,
+"2009/2010",Spain LIGA BBVA,UD Almería,42,46,-4
+"2010/2011",Spain LIGA BBVA,UD Almería,30,42,-12
+"2013/2014",Spain LIGA BBVA,UD Almería,40,30,10
+"2014/2015",Spain LIGA BBVA,UD Almería,32,40,-8
+"2015/2016",Spain LIGA BBVA,UD Las Palmas,44,,
+"2009/2010",France Ligue 1,US Boulogne Cote D'Opale,31,,
+"2008/2009",Italy Serie A,Udinese,58,,
+"2009/2010",Italy Serie A,Udinese,44,58,-14
+"2010/2011",Italy Serie A,Udinese,66,44,22
+"2011/2012",Italy Serie A,Udinese,63,66,-3
+"2012/2013",Italy Serie A,Udinese,66,63,3
+"2013/2014",Italy Serie A,Udinese,44,66,-22
+"2014/2015",Italy Serie A,Udinese,41,44,-3
+"2015/2016",Italy Serie A,Udinese,39,41,-2
+"2015/2016",Portugal Liga ZON Sagres,Uniao da Madeira,29,,
+"2009/2010",Portugal Liga ZON Sagres,"União de Leiria, SAD",35,,
+"2010/2011",Portugal Liga ZON Sagres,"União de Leiria, SAD",35,35,0
+"2011/2012",Portugal Liga ZON Sagres,"União de Leiria, SAD",19,35,-16
+"2009/2010",Netherlands Eredivisie,VVV-Venlo,35,,
+"2010/2011",Netherlands Eredivisie,VVV-Venlo,21,35,-14
+"2011/2012",Netherlands Eredivisie,VVV-Venlo,31,21,10
+"2012/2013",Netherlands Eredivisie,VVV-Venlo,28,31,-3
+"2008/2009",Spain LIGA BBVA,Valencia CF,62,,
+"2009/2010",Spain LIGA BBVA,Valencia CF,71,62,9
+"2010/2011",Spain LIGA BBVA,Valencia CF,71,71,0
+"2011/2012",Spain LIGA BBVA,Valencia CF,61,71,-10
+"2012/2013",Spain LIGA BBVA,Valencia CF,65,61,4
+"2013/2014",Spain LIGA BBVA,Valencia CF,49,65,-16
+"2014/2015",Spain LIGA BBVA,Valencia CF,77,49,28
+"2015/2016",Spain LIGA BBVA,Valencia CF,44,77,-33
+"2008/2009",France Ligue 1,Valenciennes FC,44,,
+"2009/2010",France Ligue 1,Valenciennes FC,52,44,8
+"2010/2011",France Ligue 1,Valenciennes FC,48,52,-4
+"2011/2012",France Ligue 1,Valenciennes FC,43,48,-5
+"2012/2013",France Ligue 1,Valenciennes FC,48,43,5
+"2013/2014",France Ligue 1,Valenciennes FC,29,48,-19
+"2008/2009",Germany 1. Bundesliga,VfB Stuttgart,64,,
+"2009/2010",Germany 1. Bundesliga,VfB Stuttgart,55,64,-9
+"2010/2011",Germany 1. Bundesliga,VfB Stuttgart,42,55,-13
+"2011/2012",Germany 1. Bundesliga,VfB Stuttgart,53,42,11
+"2012/2013",Germany 1. Bundesliga,VfB Stuttgart,43,53,-10
+"2013/2014",Germany 1. Bundesliga,VfB Stuttgart,32,43,-11
+"2014/2015",Germany 1. Bundesliga,VfB Stuttgart,36,32,4
+"2015/2016",Germany 1. Bundesliga,VfB Stuttgart,33,36,-3
+"2008/2009",Germany 1. Bundesliga,VfL Bochum,32,,
+"2009/2010",Germany 1. Bundesliga,VfL Bochum,28,32,-4
+"2008/2009",Germany 1. Bundesliga,VfL Wolfsburg,69,,
+"2009/2010",Germany 1. Bundesliga,VfL Wolfsburg,50,69,-19
+"2010/2011",Germany 1. Bundesliga,VfL Wolfsburg,38,50,-12
+"2011/2012",Germany 1. Bundesliga,VfL Wolfsburg,44,38,6
+"2012/2013",Germany 1. Bundesliga,VfL Wolfsburg,43,44,-1
+"2013/2014",Germany 1. Bundesliga,VfL Wolfsburg,60,43,17
+"2014/2015",Germany 1. Bundesliga,VfL Wolfsburg,69,60,9
+"2015/2016",Germany 1. Bundesliga,VfL Wolfsburg,45,69,-24
+"2008/2009",Spain LIGA BBVA,Villarreal CF,65,,
+"2009/2010",Spain LIGA BBVA,Villarreal CF,56,65,-9
+"2010/2011",Spain LIGA BBVA,Villarreal CF,62,56,6
+"2011/2012",Spain LIGA BBVA,Villarreal CF,41,62,-21
+"2013/2014",Spain LIGA BBVA,Villarreal CF,59,41,18
+"2014/2015",Spain LIGA BBVA,Villarreal CF,60,59,1
+"2015/2016",Spain LIGA BBVA,Villarreal CF,64,60,4
+"2008/2009",Netherlands Eredivisie,Vitesse,43,,
+"2009/2010",Netherlands Eredivisie,Vitesse,32,43,-11
+"2010/2011",Netherlands Eredivisie,Vitesse,35,32,3
+"2011/2012",Netherlands Eredivisie,Vitesse,53,35,18
+"2012/2013",Netherlands Eredivisie,Vitesse,64,53,11
+"2013/2014",Netherlands Eredivisie,Vitesse,55,64,-9
+"2014/2015",Netherlands Eredivisie,Vitesse,58,55,3
+"2015/2016",Netherlands Eredivisie,Vitesse,46,58,-12
+"2008/2009",Portugal Liga ZON Sagres,Vitória Guimarães,38,,
+"2009/2010",Portugal Liga ZON Sagres,Vitória Guimarães,41,38,3
+"2010/2011",Portugal Liga ZON Sagres,Vitória Guimarães,43,41,2
+"2011/2012",Portugal Liga ZON Sagres,Vitória Guimarães,45,43,2
+"2012/2013",Portugal Liga ZON Sagres,Vitória Guimarães,40,45,-5
+"2013/2014",Portugal Liga ZON Sagres,Vitória Guimarães,35,40,-5
+"2014/2015",Portugal Liga ZON Sagres,Vitória Guimarães,55,35,20
+"2015/2016",Portugal Liga ZON Sagres,Vitória Guimarães,40,55,-15
+"2008/2009",Portugal Liga ZON Sagres,Vitória Setúbal,26,,
+"2009/2010",Portugal Liga ZON Sagres,Vitória Setúbal,25,26,-1
+"2010/2011",Portugal Liga ZON Sagres,Vitória Setúbal,34,25,9
+"2011/2012",Portugal Liga ZON Sagres,Vitória Setúbal,30,34,-4
+"2012/2013",Portugal Liga ZON Sagres,Vitória Setúbal,26,30,-4
+"2013/2014",Portugal Liga ZON Sagres,Vitória Setúbal,39,26,13
+"2014/2015",Portugal Liga ZON Sagres,Vitória Setúbal,29,39,-10
+"2015/2016",Portugal Liga ZON Sagres,Vitória Setúbal,30,29,1
+"2012/2013",Belgium Jupiler League,Waasland-Beveren,30,,
+"2013/2014",Belgium Jupiler League,Waasland-Beveren,4,30,-26
+"2014/2015",Belgium Jupiler League,Waasland-Beveren,26,4,22
+"2015/2016",Belgium Jupiler League,Waasland-Beveren,33,26,7
+"2015/2016",England Premier League,Watford,45,,
+"2008/2009",England Premier League,West Bromwich Albion,32,,
+"2010/2011",England Premier League,West Bromwich Albion,47,32,15
+"2011/2012",England Premier League,West Bromwich Albion,47,47,0
+"2012/2013",England Premier League,West Bromwich Albion,49,47,2
+"2013/2014",England Premier League,West Bromwich Albion,36,49,-13
+"2014/2015",England Premier League,West Bromwich Albion,44,36,8
+"2015/2016",England Premier League,West Bromwich Albion,43,44,-1
+"2008/2009",England Premier League,West Ham United,51,,
+"2009/2010",England Premier League,West Ham United,35,51,-16
+"2010/2011",England Premier League,West Ham United,33,35,-2
+"2012/2013",England Premier League,West Ham United,46,33,13
+"2013/2014",England Premier League,West Ham United,40,46,-6
+"2014/2015",England Premier League,West Ham United,47,40,7
+"2015/2016",England Premier League,West Ham United,62,47,15
+"2008/2009",Poland Ekstraklasa,Widzew Łódź,35,,
+"2010/2011",Poland Ekstraklasa,Widzew Łódź,43,35,8
+"2011/2012",Poland Ekstraklasa,Widzew Łódź,39,43,-4
+"2011/2012",Poland Ekstraklasa,Widzew Łódź,24,39,-15
+"2012/2013",Poland Ekstraklasa,Widzew Łódź,33,24,9
+"2013/2014",Poland Ekstraklasa,Widzew Łódź,22,33,-11
+"2008/2009",England Premier League,Wigan Athletic,45,,
+"2009/2010",England Premier League,Wigan Athletic,36,45,-9
+"2010/2011",England Premier League,Wigan Athletic,42,36,6
+"2011/2012",England Premier League,Wigan Athletic,43,42,1
+"2012/2013",England Premier League,Wigan Athletic,36,43,-7
+"2008/2009",Netherlands Eredivisie,Willem II,37,,
+"2009/2010",Netherlands Eredivisie,Willem II,23,37,-14
+"2010/2011",Netherlands Eredivisie,Willem II,15,23,-8
+"2012/2013",Netherlands Eredivisie,Willem II,23,15,8
+"2014/2015",Netherlands Eredivisie,Willem II,46,23,23
+"2015/2016",Netherlands Eredivisie,Willem II,29,46,-17
+"2008/2009",Poland Ekstraklasa,Wisła Kraków,64,,
+"2009/2010",Poland Ekstraklasa,Wisła Kraków,62,64,-2
+"2010/2011",Poland Ekstraklasa,Wisła Kraków,56,62,-6
+"2011/2012",Poland Ekstraklasa,Wisła Kraków,43,56,-13
+"2012/2013",Poland Ekstraklasa,Wisła Kraków,38,43,-5
+"2013/2014",Poland Ekstraklasa,Wisła Kraków,45,38,7
+"2014/2015",Poland Ekstraklasa,Wisła Kraków,43,45,-2
+"2015/2016",Poland Ekstraklasa,Wisła Kraków,37,43,-6
+"2009/2010",England Premier League,Wolverhampton Wanderers,38,,
+"2010/2011",England Premier League,Wolverhampton Wanderers,40,38,2
+"2011/2012",England Premier League,Wolverhampton Wanderers,25,40,-15
+"2009/2010",Spain LIGA BBVA,Xerez Club Deportivo,34,,
+"2009/2010",Poland Ekstraklasa,Zagłębie Lubin,35,,
+"2010/2011",Poland Ekstraklasa,Zagłębie Lubin,39,35,4
+"2011/2012",Poland Ekstraklasa,Zagłębie Lubin,40,39,1
+"2012/2013",Poland Ekstraklasa,Zagłębie Lubin,40,40,0
+"2013/2014",Poland Ekstraklasa,Zagłębie Lubin,29,40,-11
+"2015/2016",Poland Ekstraklasa,Zagłębie Lubin,45,29,16
+"2013/2014",Poland Ekstraklasa,Zawisza Bydgoszcz,42,,
+"2014/2015",Poland Ekstraklasa,Zawisza Bydgoszcz,29,42,-13
+"2011/2012",France Ligue 1,Évian Thonon Gaillard FC,50,,
+"2012/2013",France Ligue 1,Évian Thonon Gaillard FC,40,50,-10
+"2013/2014",France Ligue 1,Évian Thonon Gaillard FC,44,40,4
+"2014/2015",France Ligue 1,Évian Thonon Gaillard FC,37,44,-7
+"2008/2009",Poland Ekstraklasa,Śląsk Wrocław,45,,
+"2009/2010",Poland Ekstraklasa,Śląsk Wrocław,36,45,-9
+"2010/2011",Poland Ekstraklasa,Śląsk Wrocław,49,36,13
+"2011/2012",Poland Ekstraklasa,Śląsk Wrocław,56,49,7
+"2012/2013",Poland Ekstraklasa,Śląsk Wrocław,47,56,-9
+"2013/2014",Poland Ekstraklasa,Śląsk Wrocław,34,47,-13
+"2014/2015",Poland Ekstraklasa,Śląsk Wrocław,46,34,12
+"2015/2016",Poland Ekstraklasa,Śląsk Wrocław,34,46,-12
