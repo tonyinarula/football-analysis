@@ -21,7 +21,7 @@ Analysis of 88 league-seasons across 11 European football leagues (2008–2016) 
 * **EPL Big Six stability:** Most top clubs changed by fewer than 10 points season over season, suggesting consistent performance at the top of the table — with Chelsea's 2015/16 collapse as a notable outlier
 
 ## Methodology
-Data source: European Soccer Database — 25,000+ matches across 11 leagues, 2008–2016
-SQL: Four analyses written in SQLite using CTEs, window functions (RANK, LAG, rolling AVG/SUM), and multi-table joins (see queries/)
-Python: Results exported from SQL as CSVs and visualized using pandas, matplotlib, seaborn, and plotly
+Data source: European Soccer Database — 25,000+ matches across 11 leagues, 2008–2016  
+SQL: Four analyses written in SQLite using CTEs, window functions (RANK, LAG, rolling AVG/SUM), and multi-table joins (see queries/)  
+Python: Results exported from SQL as CSVs and visualized using pandas, matplotlib, seaborn, and plotly  
 Statistical testing: Linear regression using scipy.stats.linregress to assess significance of home advantage trends (all results significant at p < 0.05)
